@@ -11,7 +11,7 @@ The content provided here is derived from the experiences of the contributors, m
 
 At its core, a hackathon is a short-burst event in which individuals typically form teams to intensively collaborate on projects which are designed around the problem statement or ideas provided by the hackathon organizers.
 
-"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessable. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through". 
+"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessable. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through".
 
 A hackathon is underpinned and identified by these core tenants:
 - Creative poblem solving, which does not have to include a technological (software, etc.) component. 
