@@ -1,14 +1,35 @@
-# Project
+# Hackathon Starter Kit
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+The purpose of this project is to provide a baseline of understanding, steps to be taken, best practices and guidance on how to run a Hackathon. This project will contain information on how to run two types of Hackathons: 
 
-As the maintainer of this project, please make a few updates:
+- **Corporate Internal Hackathon**: all participants are employed by a single organization. These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property.
+- **Community Hackathon**: participants are mostly sourced from the public. Due to the marketing tasks and varied experience of the participants, these can be the most complex to run. The artifacts created in Community Hackathons are typically (but not always) Open Source.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+The content provided here is derived from the experiences of the contributors, makes no claim that this guidance is the only way to execute on these events and as such welcome input from the community in any regard (please see [Contributing](#Contributing) for further details).
+
+## What is a Hackathon?
+
+At its core, a hackathon is a short-burst event in which individuals typically form teams to intensively collaborate on projects which are designed around the problem statement or ideas provided by the hackathon organizers.
+
+"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessable. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through". 
+
+A hackathon is underpinned and identified by these core tenants:
+- Creative poblem solving, which does not have to include a technological (software, etc.) component. 
+- A gathering of individuals working together, attempting to solve a common problem or set of problems.
+
+## Problem Types and Categories
+TBD
+
+## Defining Success
+TBD
+
+## How to run a Hackathon
+
+Having covered the basics of a hackathon above, noting the differences between internal an community hackathons, you can now choose your hackathon type below to be directed to the guidance specific to that event type. 
+
+[Steps to run a Community Hackathon](/community-hack/README.md)
+
+[Steps to run an Internal Hackathon](/internal-hack/README.md)
 
 ## Contributing
 
