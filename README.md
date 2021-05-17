@@ -18,14 +18,38 @@ A hackathon is underpinned and identified by these core tenants:
 - A gathering of individuals working together, attempting to solve a common problem or set of problems.
 
 ## Problem Types and Categories
-TBD
 
+Without a problem to address, or categorical area of focus, participants in a hackathon are likely to spend too much time trying to determine a path and may ultimately not provide value to the intended goal of the event. For this reason it is important to define the problem statement, and or areas of focus ahead of time.
+
+Keep in mind that even if you do ask the participants to bring their own problem statements (which is completely fine), it's helpful to provide problem types or categories to help keep the event focused. Remember, hackathons generally have a constrained amount of time. One of the most difficult components of that aspect is balancing specific direction and ideation of the partipants.
+
+The additional focus helps participants understand the goals of the hackathon. The topic(s) may also help participants understand what skills or experiences may be needed, in addition to the expected outcomes. This is especially important when it may be helpful to have less technical individuals on the team that may bring other skills to bear (eg. experience in that type of situation, industry experience, etc.). 
+
+The additional categorical focus should also make it easier to identify and recruit coaches and panelists - subject matter or technical. If you know that you want to focus on building a next-generation Medical Records System, then you know you'll likely need expertise in Heathcare, EMRs, Software Development, and Data Development.
+
+## Roles
+
+Although some hacakthons seem to be an event where people show up and do their own thing, that's likely intentional, and a lot of work goes into these events. While not all of the below roles are required for each type of hackathon, these are common functions within hackathons.
+
+- Organizers - this role often represents one or more of the following personas:
+  - Budget holders - approve any expenses
+  - Marketing - define and execute a marketing plan to attract participants and raise public awareness
+  - Technologists - provisioning or creating any required resources (eg. Website, Microsoft teams, etc.)
+- Support - depending on the size of the event, this may require one or more of the following personas:
+  - Topic Leads
+    - One for each "topic" or category
+    - Moderates sharing sessions at the end of the hackathon which align with their topic or category.
+    - Will work to attract people specific to their problem space.
+  - Tech Mentors - deep technical expertise in topic-relevant areas; ideally each team will have a tech mentor.
+  - Agile/Design Thinking Mentors - individuals skilled in helping teams break down problems and drive for a Minimally Viable Product (MVP).
+- Participants - individuals that are (hopefully) working on a team with others. The more diversity of talent, skills, experiences, and background on a team the more learning oportunities for everyone in addition to a better deliverable.
+  
 ## Defining Success
 TBD
 
 ## How to run a Hackathon
 
-Having covered the basics of a hackathon above, noting the differences between internal an community hackathons, you can now choose your hackathon type below to be directed to the guidance specific to that event type. 
+Having covered the basics of a hackathon above, noting the differences between internal an community hackathons, you can now choose your hackathon type below to be directed to the guidance specific to that event type.
 
 [Steps to run a Community Hackathon](/community-hack/README.md)
 
