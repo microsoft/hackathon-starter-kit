@@ -11,7 +11,7 @@ The content provided here is derived from the experiences of the contributors, m
 
 At its core, a hackathon is a short-burst event in which individuals typically form teams to intensively collaborate on projects which are designed around the problem statement or ideas provided by the hackathon organizers.
 
-"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessable. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through".
+"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessible. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through". From a historical prospective, a "hacker" was one who's motives were to build and create, and a "cracker" was someone motivated by destruction or theft - [read more here](https://securitytrails.com/blog/hacker-vs-cracker). 
 
 A hackathon is underpinned and identified by these core tenants:
 - Creative poblem solving, which does not have to include a technological (software, etc.) component. 
@@ -45,7 +45,32 @@ Although some hacakthons seem to be an event where people show up and do their o
 - Participants - individuals that are (hopefully) working on a team with others. The more diversity of talent, skills, experiences, and background on a team the more learning oportunities for everyone in addition to a better deliverable.
   
 ## Defining Success
-TBD
+
+With any hackathon, its important to define success early in order to drive further decisions on how the event is run, teams are formed, etc.
+
+- Organizer Goals: Is the goal to...
+  - Education of a technology, product, or concept?
+  - Build functioning solutions?
+  - Source ideas for a problem?
+  - Encourage business development?
+  - Create or grow a community?
+
+- How will you (quantitatively) measure success of the goal(s)?
+  - Participants progress through the selected training material?
+  - Amount of dollars invested in project(s)?
+  - Number of projects advancing to a "business stage"?
+
+- Expected outcomes from participants?
+  - Slideware concept of a solution?
+  - Functioning Minimum Viable Product (MVP)?
+
+## Open Source
+
+We believe open source is a great fit for hackathons. If this is the case for your event, you will need to be clear that any artifacts that are an outcome of the event will be open sourced under the [MIT License](https://opensource.org/licenses/MIT). A communication can be used with the participants along the lines of the following.
+
+>Because people are coming together from many different places to join solution teams or act as mentors, and none of these people will have signed NDAs, we are requiring all ideas, code, and documentation generated during the event is open sourced under the MIT license.​
+
+The MIT license allows anyone can build on the output of the event – be that new contributions from the community or use by commercial solutions.​
 
 ## How to run a Hackathon
 
