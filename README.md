@@ -9,13 +9,21 @@ The content provided here is derived from the experiences of the contributors, m
 
 ## What is a Hackathon?
 
-At its core, a hackathon is a short-burst event in which individuals typically form teams to intensively collaborate on projects which are designed around the problem statement or ideas provided by the hackathon organizers.
-
 "Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessible. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through". From a historical prospective, a "hacker" was one who's motives were to build and create, and a "cracker" was someone motivated by destruction or theft - [read more here](https://securitytrails.com/blog/hacker-vs-cracker). 
+
+At its core, a hackathon is a short-burst event in which individuals typically form teams to intensively collaborate on projects which are designed around the problem statement or ideas provided by the hackathon organizers.
 
 A hackathon is underpinned and identified by these core tenants:
 - Creative poblem solving, which does not have to include a technological (software, etc.) component. 
 - A gathering of individuals working together, attempting to solve a common problem or set of problems.
+
+## Why run a Hackathon?
+
+TBD
+
+Reference Write-Ups:
+
+[NurseHack4Health - Spring 2021](https://www.healthpopuli.com/2021/05/17/nurses-hacking-for-health-and-compassionomics/)
 
 ## Problem Types and Categories
 
