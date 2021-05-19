@@ -144,20 +144,41 @@ Example:
 >   - (time) Closing Remarks
 > - (date) Event Retrospective (organizers, but may include participants if desired)
 
-#### 11. Advertise the Event
-TBD
+#### 11. Create Sign-up Form
 
-#### 12. Deliver any Pre-Hack Training 
-TBD
+Sign-up be facilitated through any platform that allows you to collect the right kind of information. You want to be mindful though of how the data is collected, stored, managed and accessed - especially if you may be subject to privacy regulatory requirements. You may want to consult your privacy team to make sure you're collecting information in a compliant way.
+
+While it may seem like a good way to collect information for purposes of marketing, you want to be careful about what you collect and make sure to only ask for the *required* information.
+
+The facilitation of registration will likely be informed by prior decisions (whether or not to use a website, what platform will be used to host the event, etc.). However its done, make sure you have the ability to access the registration information so that you can communicate with the participants, form team (if required), and do anything else that requires the information submitted by the participants.  
+
+#### 12. Advertise the Event
+
+Now that most decisions have been made and prospective participants should have enough information to decide if they want to register, it's time to advertise the event. Using the social media platform(s), and any other avenues you should send out, or send a link to, the event summary which has a link to registration. Organizers will need to determine how long before the event to open registration and start advertising, keeping in mind that if it's too long the participants may forget and not show up and if it's too short notice they may not be available. There is a good middle ground, the decision will need to be made based on the your event specifically but we recommend opening registration about 3 weeks in advance.
 
 #### 13. Create Teams
-TBD
+
+After participants have registered, or started registering, team formation can begin. If hackers are not forming their own teams, this is when the organizers will start putting teams together based on attributes discussed in step 7 [Determine if Teams will be Assigned or Self-Organizing](#7-determine-if-teams-will-be-assigned-or-self-organizing).
 
 #### 14. Send Team Meeting Invites if not using Breakout Rooms
-TBD
+
+After teams are formed, depending on the collaboration platform, a decision will need to be made as to how the teams will meet. For example, in Microsoft Teams each Team can have their own Team, Channel, Meeting, or Breakout Room.
+
+Keep in mind that if the organizers are assigning teams, that there will always be hackers that don't show up or cancel and teams will have to be adjusted last-minute.
 
 #### 15. Build Kickoff Deck
-TBD
+
+At this point, whomever will be kicking off the event will want to start building the presentation to do so. Suggested information to include could be, but is not limited to the following.
+
+> - Welcome
+> - Event Summary Recap
+> - Event Agenda Recap
+> - Reminder of the Goals and Outcomes
+> - Reminder of Design Thinking Principles
+> - Encouragement to fail fast, and not fall into "analysis paralysis"
+> - Introduce Keynote Speaker (if the event has one)
+> - Reminder of the training material on how to use the platforms/tools
+> - Next Steps & Timeline
 
 #### 16. Build Closing Remarks Deck
 TBD
