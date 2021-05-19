@@ -5,4 +5,4 @@
 
 
 
-[Hackathon Starter Kit Main Page](/README.md)
+[Hackathon Starter Kit Main Page](https://github.com/microsoft/hackathon-starter-kit/)

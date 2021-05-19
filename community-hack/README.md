@@ -196,4 +196,4 @@ You will also likely want to build a presentation for the closing remarks. Sugge
 
 In the closing remarks, make sure to have a plan for and emphasize that teams should not stop working on their project. If possible, help outline next steps for their projects and where they should go from this point.
 
-[Hackathon Starter Kit Main Page](/README.md)
+[Hackathon Starter Kit Main Page](https://github.com/microsoft/hackathon-starter-kit/)
