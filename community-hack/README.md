@@ -126,9 +126,8 @@ Training material could include things like the following:
 
 An agenda is important to help frame the event, both for the organizers and the participants.
 
-Example:
 
->Example Event Timeline:
+> Example Event Timeline:
 >
 > - (date) Registration Content and Site Ready
 > - (date) Registration opens
