@@ -16,22 +16,6 @@ After you understand the goals and expected outcomes, you can start building a t
 
 Event duration can be variable. If you are only ideating and building "slideware", the event can much much shorter than if you are trying to build an MVP or working prototype. As reference, ideation should be given at least 2 hours and 2 hours for presentation development. These types of events can typically be run in a 6-8 hour day. Events with an expected outcome of an MVP or working prototype should accommodate at least an additional 6 hours of development time. Depending on the modality and accommodations, some hackathons can run multiple days for serious production. Be mindful of the participant's schedule, the longer the event the less likely they will be to dedicate their time.
 
->Example Event Timeline:
->
-> - (date) Registration Content and Site Ready
-> - (date) Registration opens
-> - (date) Event Kickoff
->   - (time) Kickoff / Keynote
->   - Problem Pitching
->   - Team Formation
-> - (date) Hackathon Day 1
->   - (time) Start Ideating
->   - (time) Start Building
-> - (date) Hackathon Day 2
->   - (time) Stop building / Start Sharing
->   - (time) Closing Remarks
-> - (date) Event Retrospective (organizers, but may include participants if desired)
-
 #### 3. Determine the roles needed for the event.
 
 See [Roles](/README.md#Roles) for further details.
@@ -119,19 +103,46 @@ Example:
 >
 > **How:** Register Here (insert link)! Each registrant will be guided through a process to create your profile, pitch ideas, and create or join a team.
 >
-> **Outcomes:** We hope to have teams that have ideas or projects either as practitioners, or technologists which they can further collborate on after the event and help drive towards implementation.
+> **Outcomes:** We hope to have teams that have ideas or projects either as practitioners, or technologists which they can further collaborate on after the event and help drive towards implementation.
 
 At this point you may also want to determine the following items which may help incentivize hackers.
 
-- Can the event be "gamified"? Depending on the type of event, the ability to have "points", "levels" or "badges" may help motivate the participants. 
-- Will there be winners, or prizes? This can help with a bit of friendly competition, and help drive participants towards a goal. 
+- Can the event be "gamified"? Depending on the type of event, the ability to have "points", "levels" or "badges" may help motivate the participants.
+- Will there be winners, or prizes? This can help with a bit of friendly competition, and help drive participants towards a goal.
   - If so, who will adjudicate?
 
 #### 9. Create a List of Pre-Hack Educational Material
-TBD
+
+Depending on the event, the organizers may want to put together material to review at their own pace to help the event run more smoothly. This could be reading, videos, etc.
+
+Training material could include things like the following:
+
+- How to create / join a team
+- How to use the collaboration platform(s), (eg. Microsoft Teams, Github, etc.)
+- Design Thinking Material
+- Training for Specific Technical Resources
 
 #### 10. Create and Publish the Agenda
-TBD
+
+An agenda is important to help frame the event, both for the organizers and the participants.
+
+Example:
+
+>Example Event Timeline:
+>
+> - (date) Registration Content and Site Ready
+> - (date) Registration opens
+> - (date) Event Kickoff
+>   - (time) Kickoff / Keynote
+>   - Problem Pitching
+>   - Team Formation
+> - (date) Hackathon Day 1
+>   - (time) Start Ideating
+>   - (time) Start Building
+> - (date) Hackathon Day 2
+>   - (time) Stop building / Start Sharing
+>   - (time) Closing Remarks
+> - (date) Event Retrospective (organizers, but may include participants if desired)
 
 #### 11. Advertise the Event
 TBD
