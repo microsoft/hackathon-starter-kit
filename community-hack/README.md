@@ -180,10 +180,21 @@ At this point, whomever will be kicking off the event will want to start buildin
 > - Reminder of the training material on how to use the platforms/tools
 > - Next Steps & Timeline
 
-#### 16. Build Closing Remarks Deck
-TBD
+#### 16. Build Post-Hack Survey
 
-#### 17. Build Post-Hack Survey
-TBD
+Capturing information from the participants about usefulness of the event, things that went well, things that could be improved, and any other information will be important for the event retrospective and may be useful to determine the impact of the event aside from simply the number of participants. 
+
+#### 17. Build Closing Remarks Deck
+
+You will also likely want to build a presentation for the closing remarks. Suggested information to include could be, but is not limited to the following.
+
+> - Congratulations for completing the event
+> - Recap of the Event
+> - Any highlights
+> - Thanks to any sponsors/organizers
+> - Link to Post-Hack Survey
+> - Next Steps
+
+In the closing remarks, make sure to have a plan for and emphasize that teams should not stop working on their project. If possible, help outline next steps for their projects and where they should go from this point.
 
 [Hackathon Starter Kit Main Page](/README.md)
