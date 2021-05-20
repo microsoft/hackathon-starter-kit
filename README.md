@@ -9,7 +9,7 @@ The content provided here is derived from the experiences of the contributors, m
 
 ## What is a Hackathon?
 
-"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessible. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through". From a historical prospective, a "hacker" was one who's motives were to build and create, and a "cracker" was someone motivated by destruction or theft - [read more here](https://securitytrails.com/blog/hacker-vs-cracker). 
+"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessible. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through". From a historical prospective, a "hacker" was one who's motives were to build and create, and a "cracker" was someone motivated by destruction or theft - [read more here](https://securitytrails.com/blog/hacker-vs-cracker).
 
 At its core, a hackathon is a short-burst event in which individuals typically form teams to intensively collaborate on projects which are designed around the problem statement or ideas provided by the hackathon organizers.
 
