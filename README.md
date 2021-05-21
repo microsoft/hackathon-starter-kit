@@ -19,7 +19,14 @@ A hackathon is underpinned and identified by these core tenants:
 
 ## Why run a Hackathon?
 
-TBD
+- For internal:
+  - For sales: Allows hands-on experience with technologies they may not be familiar with. Help them understand and engage customers more effectively
+  - For engineers: Allows greater depth of the technology they need to support. Opportunity to solution real world scenarios in depth they've never been exposed to.
+
+- Community:
+  - Sourcing ideas from the community.
+  - Recruiting 
+  - Marketing
 
 Reference Write-Ups:
 
