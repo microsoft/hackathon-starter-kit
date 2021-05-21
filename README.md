@@ -22,13 +22,13 @@ Side note: What is a "Hacker" and what is a "Cracker"? [read more here](https://
 ## Why run a Hackathon?
 
 - For internal:
-  - For sales: Allows hands-on experience with technologies they may not be familiar with. Help them understand and engage customers more effectively
+  - For sales: Allows hands-on experience with technologies they may not be familiar with. Help them understand and engage customers more effectively.
   - For engineers: Allows greater depth of the technology they need to support. Opportunity to solution real world scenarios in depth they've never been exposed to.
 
 - Community:
   - Sourcing ideas from the community.
-  - Recruiting 
-  - Marketing
+  - Recruiting.
+  - Marketing.
 
 Reference Write-Ups:
 
