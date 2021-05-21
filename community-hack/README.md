@@ -6,7 +6,7 @@ This page is designed to provide guidance, and ideas on running a Community Hack
 
 #### 1. Determine Name, Purpose and Outcomes of the Hackathon
 
-Is this a hackathon, workshop or openhack? If it's a hackathon, what is the problem statement? 
+Is this a hackathon, workshop or [openhack](https://openhack.microsoft.com/)? If it's a hackathon, what is the problem statement? 
 
 Either in combination with, or subsequent to this step (after pitching the idea), the organizing team should be formed.
 
