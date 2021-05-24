@@ -6,9 +6,11 @@ This page is designed to provide guidance, and ideas on running a Community Hack
 
 #### 1. Determine Name, Purpose and Outcomes of the Hackathon
 
-Is this a hackathon, workshop or [openhack](https://openhack.microsoft.com/)? If it's a hackathon, what is the problem statement? 
+Is this a hackathon, [workshop](https://github.com/microsoft/OpenHack-FHIR) or [openhack](https://openhack.microsoft.com/)? If it's a hackathon, what is the problem statement? 
 
 Either in combination with, or subsequent to this step (after pitching the idea), the organizing team should be formed.
+
+Disclaimer: Though the workshop link takes you to OpenHack-FHIR, it's run as more of a workshop where you simply follow the instructions to get to the finish :) 
 
 #### 2. Set Date and Determine Event Duration
 
