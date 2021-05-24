@@ -10,6 +10,8 @@ Is this a hackathon (which is focused on a problem statement or category), works
 
 Either in combination with, or subsequent to this step (after pitching the idea), the organizing team should be formed.
 
+Disclaimer: Though the workshop link takes you to OpenHack-FHIR, it's run as more of a workshop where you simply follow the instructions to get to the finish :) 
+
 #### 2. Set Date and Determine Event Duration
 
 After you understand the goals and expected outcomes, you can start building a timeline for the event. The type of event, required advertising, time to get resources in place, etc. will all affect when you should run the event.
