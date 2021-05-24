@@ -9,15 +9,13 @@ The content provided here is derived from the experiences of the contributors, m
 
 ## What is a Hackathon?
 
-No, unfortunately, it's not like the Matrix. We will not try hacking into a system. Although... the event COULD have a goal of hacking into some database to test out a system's security it is not how the term is used in the tech industry.
+"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessible. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through". From a historical prospective, a "hacker" was one who's motives were to build and create, and a "cracker" was someone motivated by destruction or theft - [read more here](https://securitytrails.com/blog/hacker-vs-cracker).
 
 At its core, a hackathon is a short-burst event in which individuals typically form teams to intensively collaborate on projects which are designed around the problem statement or ideas provided by the hackathon organizers.
 
 A hackathon is underpinned and identified by these core tenants:
 - Creative poblem solving, which does not have to include a technological (software, etc.) component. 
 - A gathering of individuals working together, attempting to solve a common problem or set of problems.
-
-Side note: What is a "Hacker" and what is a "Cracker"? [read more here](https://securitytrails.com/blog/hacker-vs-cracker).
 
 ## Why run a Hackathon?
 
