@@ -23,15 +23,21 @@ Side note: What is a "Hacker" and what is a "Cracker"? [read more here](https://
 
 There are many reasons to run a hackathon. Recruiting talents, marketing a product (or a company) and building new skillsets, to name a few. There are different ways to run a hackathon and as mentioned above, at least within Microsoft, we have two categories; Community and Internal hackathons.  
 
+(To note, the term [MVP](https://bloombergcities.jhu.edu/news/explainer-what-mvp-or-minimal-viable-product) will get thrown a lot when you attend hackathons. Yes, many times hackathons run in the name of creating an MVP but that is not always the case) 
+
 **For internal**: We see a hackathon being run in the internal format when we want to build muscles for the employees. 
   - For sales, they need to be trained in products they are selling. Hackathon allows hands-on experience with new/existing products they may not be familiar with. It will help them to understand how the products can help the customers and engage with them more personally.
   - For solution architects, they need to know the ins and outs of the products they are solutioning for the customers. Hackathon can give them an opportunity to solution real world scenarios, that they might not have otherwise encountered, in depth. 
   - For engineers, they need to know how different services/products work to incorporate into their own product. You can imagine a tech company that is big as Microsoft has enormous amount of services we offer and not all engineering teams are familiar with all the offerings. Hackathon would be a great way for one team to learn about other products and also build collaboration with other teams.
 
-- Community:
-  - Sourcing ideas from the community.
-  - Recruiting.
-  - Marketing.
+**Community**: This type of hackathon is run typically when you want to recruit talents, market a product, source ideas, create a MVP for the launch of a product or a company (eg. show casing a working product to VC panelists).
+  - For companies, they can host hackathons in the hopes of recruiting gifted talents that fit their vision and culture. For example, [Kaggle](https://www.kaggle.com/competitions) is an online data science/machine learning community and they host competitions. Many tech companies like google, amazon poach talents through these competitions. They can also host a workshop/hackathon for potential clients to market their new offerings. 
+  - For VCs and investors, they can host hackathons to find talents and ideas they can invest in. Hackathons such as these will drive innovation and attract many great talents with great ideas
+ 
+
+For more examples of real world reasons why you should run a hackathon:
+
+[Why you should run a hackathon](https://eventornado.com/blog/why-your-company-should-run-a-hackathon#:~:text=7%20reasons%20why%20your%20company%20should%20run%20a,can%20attract%20powerful%20PR.%20...%20More%20items...%20)
 
 Reference Write-Ups:
 
