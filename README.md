@@ -21,9 +21,12 @@ Side note: What is a "Hacker" and what is a "Cracker"? [read more here](https://
 
 ## Why run a Hackathon?
 
-- For internal:
-  - For sales: Allows hands-on experience with technologies they may not be familiar with. Help them understand and engage customers more effectively.
-  - For engineers: Allows greater depth of the technology they need to support. Opportunity to solution real world scenarios in depth they've never been exposed to.
+There are many reasons to run a hackathon. Recruiting talents, marketing a product (or a company) and building new skillsets, to name a few. There are different ways to run a hackathon and as mentioned above, at least within Microsoft, we have two categories; Community and Internal hackathons.  
+
+**For internal**: We see a hackathon being run in the internal format when we want to build muscles for the employees. 
+  - For sales, they need to be trained in products they are selling. Hackathon allows hands-on experience with new/existing products they may not be familiar with. It will help them to understand how the products can help the customers and engage with them more personally.
+  - For solution architects, they need to know the ins and outs of the products they are solutioning for the customers. Hackathon can give them an opportunity to solution real world scenarios, that they might not have otherwise encountered, in depth. 
+  - For engineers, they need to know how different services/products work to incorporate into their own product. You can imagine a tech company that is big as Microsoft has enormous amount of services we offer and not all engineering teams are familiar with all the offerings. Hackathon would be a great way for one team to learn about other products and also build collaboration with other teams.
 
 - Community:
   - Sourcing ideas from the community.
