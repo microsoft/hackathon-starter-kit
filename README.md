@@ -54,8 +54,7 @@ The additional focus helps participants understand the goals of the hackathon. T
 The additional categorical focus should also make it easier to identify and recruit coaches and panelists - subject matter or technical. If you know that you want to focus on building a next-generation Medical Records System, then you know you'll likely need expertise in Heathcare, EMRs, Software Development, and Data Development.
 
 ## Roles
-
-Although some hacakthons seem to be an event where people show up and do their own thing, that's likely intentional, and a lot of work goes into these events. While not all of the below roles are required for each type of hackathon, these are common functions within hackathons.
+Depending on what type of hackathons you want to run you may or not want some of these roles.  
 
 - Organizers - this role often represents one or more of the following personas:
   - Budget holders - approve any expenses
