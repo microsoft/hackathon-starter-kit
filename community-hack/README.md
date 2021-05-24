@@ -6,7 +6,7 @@ This page is designed to provide guidance, and ideas on running a Community Hack
 
 #### 1. Determine Name, Purpose and Outcomes of the Hackathon
 
-Is this a hackathon, workshop or openhack? If it's a hackathon, what is the problem statement? 
+Is this a hackathon (which is focused on a problem statement or category), workshop (which is more focused on education of the material) or [openhack](https://openhack.microsoft.com/)? If it's a hackathon, what is the problem statement?
 
 Either in combination with, or subsequent to this step (after pitching the idea), the organizing team should be formed.
 
@@ -16,9 +16,9 @@ After you understand the goals and expected outcomes, you can start building a t
 
 Event duration can be variable. If you are only ideating and building "slideware", the event can much much shorter than if you are trying to build an MVP or working prototype. As reference, ideation should be given at least 2 hours and 2 hours for presentation development. These types of events can typically be run in a 6-8 hour day. Events with an expected outcome of an MVP or working prototype should accommodate at least an additional 6 hours of development time. Depending on the modality and accommodations, some hackathons can run multiple days for serious production. Be mindful of the participant's schedule, the longer the event the less likely they will be to dedicate their time.
 
-#### 3. Determine the roles needed for the event.
+#### 3. Determine the Roles needed for the Event
 
-See [Roles](/README.md#Roles) for further details.
+See [Roles](/README.md#roles) for further details.
 
 #### 4. Determine how the event will be Advertised
 
@@ -72,7 +72,7 @@ Unless the goal of the hackathon is to be purely educational, artifacts (or deli
   - Sharepoint/OneDrive?
 
 Additional considerations when choosing a platform for collaborating and sharing work: 
-- Can the content be Open Source? We suggest that it is - see [Open Source](/README.md#OpenSource)
+- Can the content be Open Source? We suggest that it is - see [Open Source](/README.md#open-source)
 - Are the organizers going to publish all of the content on behalf of the teams, or will the teams publish their content directly?
 - Do any of the artifacts need "approved" before being shared (intellectual property, etc.)?
 
