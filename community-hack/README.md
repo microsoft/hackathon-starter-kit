@@ -88,7 +88,6 @@ Lastly, if the event is being recorded at all (kickoff/closing, "action shots", 
 - Do participants need to sign a Media Release Consent? 
   - If not, provide notice to the participants when recording is about to start so they can choose whether or not they want to be recorded.
 
-
 #### 7. How will the participants register?
 
 If using Teams, the best way for people to register is using a MS account. As people need to be added as guests to a MS tenant you want to minimize much friction as possible from the get-go. We wouldn't want them to send unnecessary emails to ask them to register for an MS account and having to ask them to send us their MS account email.
@@ -171,13 +170,17 @@ Now that most decisions have been made and prospective participants should have 
 
 After participants have registered, or started registering, team formation can begin. If hackers are not forming their own teams, this is when the organizers will start putting teams together based on attributes discussed in step 7 [Determine if Teams will be Assigned or Self-Organizing](#7-determine-if-teams-will-be-assigned-or-self-organizing).
 
-#### 16. Send Team Meeting Invites if not using Breakout Rooms
+#### 16. Set-up Help Desk
+
+Whether [in-person or virtual](./ThingsToKeepInMind.md) it's vital to have experts on stand by ready to answer technical / logistical questions. 
+
+#### 17. Send Team Meeting Invites if not using Breakout Rooms
 
 After teams are formed, depending on the collaboration platform, a decision will need to be made as to how the teams will meet. For example, in Microsoft Teams each Team can have their own Team, Channel, Meeting, or Breakout Room.
 
 Keep in mind that if the organizers are assigning teams, that there will always be hackers that don't show up or cancel and teams will have to be adjusted last-minute.
 
-#### 17. Build Kickoff Deck
+#### 18. Build Kickoff Deck
 
 At this point, whomever will be kicking off the event will want to start building the presentation to do so. Suggested information to include could be, but is not limited to the following.
 
@@ -191,11 +194,11 @@ At this point, whomever will be kicking off the event will want to start buildin
 > - Reminder of the training material on how to use the platforms/tools
 > - Next Steps & Timeline
 
-#### 18. Build Post-Hack Survey
+#### 19. Build Post-Hack Survey
 
 Capturing information from the participants about usefulness of the event, things that went well, things that could be improved, and any other information will be important for the event retrospective and may be useful to determine the impact of the event aside from simply the number of participants. 
 
-#### 19. Build Closing Remarks Deck
+#### 20. Build Closing Remarks Deck
 
 You will also likely want to build a presentation for the closing remarks. Suggested information to include could be, but is not limited to the following.
 
