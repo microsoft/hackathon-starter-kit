@@ -48,12 +48,6 @@ Cons:
 
 ## Incentives
 
-**Prizes**?
-
-**Rounds across multiple hackathons**?
-
-**For learning**?
-
-**Career Building**?
+**Prizes**? **Rounds across multiple hackathons**? **For learning**? **Career Building**?
 
 These are some of the questions you should consider when hosting a hackathon. This might determine which sort of participants you can expect.
