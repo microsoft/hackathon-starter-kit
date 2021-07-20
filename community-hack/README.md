@@ -69,7 +69,7 @@ Sponsorships can act as a form of income for the event to help cover the costs. 
 
 Unless the goal of the hackathon is to be purely educational, artifacts (or deliverables) are a primary goal of the event. This means that a few decisions need to be made by the organizing team. 
 
-- Where/how will teams collaborate on their work?
+- Where/how will teams collaborate on their work? This is especially important when it's [Virtual or Hybrid](./ThingsToKeepInMind.md) hackathons
 - Where will teams post their completed work at the end of the event?
   - Github?
     - If GitHub, will you create the team programmatically or manually? There are pros/cons for both.
@@ -87,6 +87,7 @@ Lastly, if the event is being recorded at all (kickoff/closing, "action shots", 
 - Who is doing the recording, and any needed "trimming" of the videos?
 - Do participants need to sign a Media Release Consent? 
   - If not, provide notice to the participants when recording is about to start so they can choose whether or not they want to be recorded.
+
 
 #### 7. How will the participants register?
 
