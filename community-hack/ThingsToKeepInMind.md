@@ -3,6 +3,7 @@
 ## How is the hackathon being held?
 
 **In-Person**
+
 Pros:
 
 Cons:
@@ -10,12 +11,14 @@ Cons:
 
 
 **Virtual**
+
 Pros:
 
 Cons:
 
 
 **Hybrid**
+
 Pros:
 
 Cons:
