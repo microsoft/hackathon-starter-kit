@@ -3,9 +3,7 @@
 ## How is the hackathon being held?
 (note: These notes are from the organizer's perspective)
 
-**In-Person**
-
-
+### In-Person
 Pros:
 
 - Not much pre-training required to fill the tech illiteracy. 
@@ -19,7 +17,7 @@ Cons:
 - Cost (infra, meals, staff, travel)
 
 
-**Virtual**
+### Virtual
 
 Pros:
 
@@ -35,7 +33,7 @@ Cons:
 - Requiring Consent from participants for recorded contents
 
 
-**Hybrid**
+### Hybrid
 
 Pros:
 
