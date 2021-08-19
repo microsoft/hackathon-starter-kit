@@ -5,7 +5,7 @@ This page is designed to provide guidance and ideas to help organizations run In
 
 #### 1. Determine Name, Purpose and Outcomes of the Hackathon
 For a start, deciding on what you want to achieve from running a hackathon is important. A well-run internal hackathon is great for team building and cross-disciplinary collaboration, as you’ll be able to encourage people to work outside of their regular cliques.
-For eg, every team has to include members from different functions (Engineering/Product/Design, Marketing, Sales, and Customer Support & Success) or different skill levels to ensure a mix of talents and experience in every group.
+For example, every team has to include members from different functions (Engineering/Product/Design, Marketing, Sales, and Customer Support & Success) or different skill levels to ensure a mix of talents and experience in every group.
 
 #### 2. Get everyone involved even before the event
 
@@ -28,8 +28,10 @@ Ideate!
 - TIP! Some teams struggle timeboxing ideation. They may be used to old-school waterfall projects that try to think through and collect every requirement upfront - and this approach won't work in hackathon. You will likely need coaches that help teams timebox ideation to something reasonable and how to build a prioritized backlog.
 
 Build!
-- 
+- This is the phase of the project where the HACKATHON TEAM assembles the desired deliverable of the event. In most hackathons, we are working towards some kind of working prototype or MVP.
 
 Share!
+- We believe this is a critical phase in a hackathon. This is where the HACKATHON TEAM presents the work they've done during the event. This is an opportunity for them to show off what they learned and be proud of their solution.
+- Recognition & Prizes This is likely where one or more HACKATHON TEAMS are recognized for their work. For many hackathon participants, the opportunity to learn and collaborate with others is incentive enough to participate. Some hackathons need more incentive to attract their target audience (often developers) to contribute their time and expertise. Internal hackathon organizers may offer charitable donations in the name of the team, days off work, cash awards, or more creative prizes.
 
 [Hackathon Starter Kit Main Page](https://github.com/microsoft/hackathon-starter-kit/)
