@@ -8,14 +8,7 @@ The purpose of this project is to provide a baseline of understanding, steps to 
 The content provided here is derived from the experiences of the contributors, makes no claim that this guidance is the only way to execute on these events and as such welcome input from the community in any regard (please see [Contributing](#Contributing) for further details).
 
 ## What is a Hackathon?
-
-"Hacking" is most commonly used in the negative sense of an illegal act of computer crime to access resources which would otherwise be inaccessible. In the context of a hackathon though, the definition is one of the alternatives meaning to "cut with rough or heavy blows" (the act of intense focus on the project) or "manage; cope; muddle through". From a historical prospective, a "hacker" was one who's motives were to build and create, and a "cracker" was someone motivated by destruction or theft - [read more here](https://securitytrails.com/blog/hacker-vs-cracker).
-
-At its core, a hackathon is a short-burst event in which individuals typically form teams to intensively collaborate on projects which are designed around the problem statement or ideas provided by the hackathon organizers.
-
-A hackathon is underpinned and identified by these core tenants:
-- Creative poblem solving, which does not have to include a technological (software, etc.) component. 
-- A gathering of individuals working together, attempting to solve a common problem or set of problems.
+https://github.com/microsoft/hackathon-starter-kit/blob/main/whatisahackathon.md
 
 ## Why run a Hackathon?
 
@@ -28,10 +21,9 @@ There are many reasons to run a hackathon. Recruiting talents, marketing a produ
   - For solution architects, they need to know the ins and outs of the products they are solutioning for the customers. Hackathon can give them an opportunity to solution real world scenarios, that they might not have otherwise encountered, in depth. 
   - For engineers, they need to know how different services/products work to incorporate into their own product. You can imagine a tech company that is big as Microsoft has enormous amount of services we offer and not all engineering teams are familiar with all the offerings. Hackathon would be a great way for one team to learn about other products and also build collaboration with other teams.
 
-**Community**: This type of hackathon is run typically when you want to recruit talents, market a product, source ideas, create a MVP for the launch of a product or a company (eg. show casing a working product to VC panelists).
+**Community**: This type of hackathon is run typically when you want to source ideas for a problem or recruit talent to build some prototype or MVP to solve a problem. Community hackathons may also be used to market a product (often to developers). You might want to run a hackathon staffed with coaches from your company to help developers use your API/service/tool to build or integrate solutions.
   - For companies, they can host hackathons in the hopes of recruiting gifted talents that fit their vision and culture. For example, [Kaggle](https://www.kaggle.com/competitions) is an online data science/machine learning community and they host competitions. Many tech companies like google, amazon poach talents through these competitions. They can also host a workshop/hackathon for potential clients to market their new offerings. 
   - For VCs and investors, they can host hackathons to find talents and ideas they can invest in. Hackathons such as these will drive innovation and attract many great talents with great ideas
- 
 
 For more examples of real world reasons why you should run a hackathon:
 
@@ -71,12 +63,12 @@ Depending on what type of hackathons you want to run you may or not want some of
 
 With any hackathon, its important to define success early in order to drive further decisions on how the event is run, teams are formed, etc.
 
-- Organizer Goals: Is the goal to...
-  - Education of a technology, product, or concept?
-  - Build functioning solutions?
-  - Source ideas for a problem?
-  - Encourage business development?
-  - Create or grow a community?
+- Organizer Goals: Is the desired outcome to...
+  - educate participants? Are you trying to build awareness and hands-on experience with a technology, product, or concept (e.g. agile development)?
+  - source ideas for a problem? Are you looking for creative solutions to a particular challenge?
+  - build functioning solutions? Are you looking to accelerate innovation or time-to-value/market?
+  - encourage business development?
+  - create or grow a community? Are you hoping to increase collaboration across teams or the organization? Are you trying to foster a community of external collaborators?
 
 - How will you (quantitatively) measure success of the goal(s)?
   - Participants progress through the selected training material?
@@ -89,15 +81,28 @@ With any hackathon, its important to define success early in order to drive furt
 
 ## Open Source
 
-We believe open source is a great fit for hackathons. If this is the case for your event, you will need to be clear that any artifacts that are an outcome of the event will be open sourced under the [MIT License](https://opensource.org/licenses/MIT). A communication can be used with the participants along the lines of the following.
+We believe open source is a great fit for hackathons. Open source licensing is still a relatively new and often misunderstood approach to intellectual property, but we believe it's the perfect fit for many hackathons - especially community hackathons.
 
->Because people are coming together from many different places to join solution teams or act as mentors, and none of these people will have signed NDAs, we are requiring all ideas, code, and documentation generated during the event is open sourced under the MIT license.​
+Whichever licensing option you select, you will need to be clearly communicate any intellectual property (ideas, code, etc.) produced by HACKATHON TEAMS during the event will abide by this decision. We prefer the [MIT License](https://opensource.org/licenses/MIT), but you shoud understand the [other options](https://opensource.org/licenses) so you can appropriately fit the license to your event. A communication can be used with the participants along the lines of the following:
 
-The MIT license allows anyone can build on the output of the event – be that new contributions from the community or use by commercial solutions.​
+>Because people are coming together from many different places to join solution teams or act as mentors, and none of these people will have signed NDAs, we require all ideas, code, and documentation generated during the event to be open sourced under the MIT license.​
+
+Typically, the event ORGANIZERS own the repositories (to host the code and other artifacts). These organizers will usually designate a co-owner or even the entire team the necessary permissions to contribute artifacts to the repository. We believe GitHub is the best repository for hackathon artifacts and it provides great support for open source projects. (DISCLOSURE: The authors of this are employees of Microsoft which owns GitHub.)
+
+The MIT license allows anyone to build on the output of the event – be that new contributions from the community or for use by commercial solutions. License options like GPL 
+
+While we believe open source is the best option for most community hackathons, if you want to be a closed source event, this needs to be VERY clear in your messaging. Here are some things to consider:
+- Who is the owner of the intellectual property? The HACKATHON TEAM? The organizers? The sponsors? 
+- Does each member of the HACKATHON TEAM have and/or need to sign an NDA? What would stop them from taking the idea or code back to their employer or their own business?
+- Do you want HACKATHON TEAMS from companies with closed source solutions submitting their product in the hackathon?
+
+## Hackathon Artifacts
+
+If your HACKATHON TEAM produces artifacts like code and documentation, GitHub is our recommendation. We recommend event ORGANIZERS create GitHub Organizations and create a repository for each team under that Organization. They can grant various levels of access to one or more members of each HACKATHON TEAM.
 
 ## How to run a Hackathon
 
-Having covered the basics of a hackathon above, noting the differences between internal an community hackathons, you can now choose your hackathon type below to be directed to the guidance specific to that event type.
+Having covered the basics of a hackathon above, noting the differences between internal and community hackathons, you can now choose your hackathon type below to be directed to the guidance specific to that event type.
 
 [Steps to run a Community Hackathon](/community-hack/README.md)
 
@@ -105,7 +110,7 @@ Having covered the basics of a hackathon above, noting the differences between i
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
