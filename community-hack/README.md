@@ -18,7 +18,13 @@ Disclaimer: Though the workshop link takes you to OpenHack-FHIR, it's run as mor
 
 After you understand the goals and expected outcomes, you can start building a timeline for the event. The type of event, required advertising, time to get resources in place, etc. will all affect when you should run the event.
 
-Event duration can be variable. If you are only ideating and building "slideware", the event can much much shorter than if you are trying to build an MVP or working prototype. As reference, ideation should be given at least 2 hours and 2 hours for presentation development. These types of events can typically be run in a 6-8 hour day. Events with an expected outcome of an MVP or working prototype should accommodate at least an additional 6 hours of development time. Depending on the modality and accommodations, some hackathons can run multiple days for serious production. Be mindful of the participant's schedule, the longer the event the less likely they will be to dedicate their time.
+**Event duration can be varied.** 
+
+> _Be mindful of the participant's schedule, the longer the event the less likely they will be to dedicate their time._
+
+If you are only ideating and building "slideware", the event can much much shorter than if you are trying to build an MVP or working prototype. As reference, ideation should be given at least 2 hours and 2 hours for presentation development. These types of events can typically be run in a 6-8 hour day. 
+
+Events with an expected outcome of an MVP or working prototype should accommodate at least an additional 6 hours of development time. Depending on the modality and accommodations, some hackathons can run multiple days for serious production. 
 
 #### 3. Determine the Roles needed for the Event
 
@@ -36,12 +42,14 @@ Now that you've determined the Name, Purpose, Outcomes, Date, and Roles required
     - Who will maintain and own it?
     - Will it continue to exist after the event is over?
 - Will social media be used?
-- If so...
-  - Which platform(s) will be used?
-  - Will the event have its own account and if so, who will own them?
+  - If so...
+    - Which platform(s) will be used? Think about LinkedIn, Facebook groups, Reddit, hackernews, etc
+    - Will the event have its own account and if so, who will own them?
 - Is there a different forum for recruiting different types of individuals (different skill sets, industry/experience, support, etc.)?
 - How long will advertising take place before registration is opened?
+  - Remember, besides the duration deciding on the channels you wish to advertise is also crucial. 
 - Is there a common set of materials used for marketing?
+  - This is important as you want to have unified image/message for different channels
 
 [//]: <> (include section or information about wordpress CMS hosting and/or the registration tool that was build by EmOps?)
 
@@ -51,7 +59,8 @@ Financial budgeting is a common oversight with hackathons, below are some exampl
 
 - Registration form or website
 - Microsoft Teams Tenant
-- Prizes
+- Prizes 
+  - *Caution* Virtual hackathons will make this logistically difficult. 
 - Developer Tools (Hardware/Software)
   - If you expect participants to bring their own, this needs to be clearly communicated.
 - Lab environment
@@ -82,6 +91,9 @@ Additional considerations when choosing a platform for collaborating and sharing
 - Do any of the artifacts need "approved" before being shared (intellectual property, etc.)?
 
 Lastly, if the event is being recorded at all (kickoff/closing, "action shots", etc.) there are considerations around that media. 
+
+> When you are recording, you may want to consider gettting consent from the participants
+
 - Where will these be stored - Microsoft Stream, Youtube, Microsoft Teams?
 - Who will own the content and under what account will it be shared?
 - Who is doing the recording, and any needed "trimming" of the videos?
@@ -92,11 +104,19 @@ Lastly, if the event is being recorded at all (kickoff/closing, "action shots", 
 
 If using Teams, the best way for people to register is using a MS account. As people need to be added as guests to a MS tenant you want to minimize much friction as possible from the get-go. We wouldn't want them to send unnecessary emails to ask them to register for an MS account and having to ask them to send us their MS account email.
 
+- We created an [User Registration API](https://github.com/microsoft/NH4H-UserReg/) (always maintained) to get you started with the registration 
+
+> We had ran our fair share of hackathons and found using a MS social login is the best way to register participants if MS Teams is the way you want to collaborate. That way, there is no confusion for the registrant. 
+
 #### 8. Determine if Teams will be Assigned or Self-Organizing
 
 Depending on the type of event, the organizers may want the teams to be self-organizing or to be assigned by the organizers. There are Pros and Cons to each configuration and the decision should be made specific to that event.
 
-If the teams are going to self-organize, are the organizers going to help facilitate the formation of those teams (eg. a "lounge" or some sort, idea board, "profiles" with skills, etc.)? If the teams are going to be assigned, what is the criteria for the creation of those teams? We suggest trying to be as diverse as possible in relation to skills, background, and experience. Some suggested ways to organize teams is by attributes such as Time Zone, Role Type/Background, Level of Experience, Category/Problem Area Understanding, etc.
+If the teams are going to self-organize, are the organizers going to help facilitate the formation of those teams (eg. a "lounge" or some sort, idea board, "profiles" with skills, etc.)? 
+
+If the teams are going to be assigned, what is the criteria for the creation of those teams? We suggest trying to be as diverse as possible in relation to skills, background, and experience. Some suggested ways to organize teams is by attributes such as Time Zone, Role Type/Background, Level of Experience, Category/Problem Area Understanding, etc.
+
+> If people are having hard time trying to decide, it may be good to remind them not to overthink. Let them know this is just a weekend hackathon and the point is to learn, hack, network, and most importantly, to have fun!
 
 #### 9. Write a Summary of the Event including "Who, Why, When, How" and Expected Outcomes
 
@@ -124,12 +144,21 @@ At this point you may also want to determine the following items which may help 
 
 Depending on the event, the organizers may want to put together material to review at their own pace to help the event run more smoothly. This could be reading, videos, etc.
 
+You could always run a virtual _pre event_ the week prior or on the week of the hackathon to make sure everyone understands what is expected of them. Go over the material you created for them. 
+
+> you can use this pre-event week to work out any technical kinks you may encounter during the hackathon.
+
 Training material could include things like the following:
 
 - How to create / join a team
 - How to use the collaboration platform(s), (eg. Microsoft Teams, Github, etc.)
 - Design Thinking Material
 - Training for Specific Technical Resources
+
+> _Caution for Virtual Hackathon_
+> Understand people will have different degrees of technical background. You may even need to show someone how to share their screen! Oh, yes... It happens. :)
+
+
 
 #### 11. Create and Publish the Agenda
 
