@@ -159,7 +159,6 @@ Training material could include things like the following:
 > Understand people will have different degrees of technical background. You may even need to show someone how to share their screen! Oh, yes... It happens. :)
 
 
-
 #### 11. Create and Publish the Agenda
 
 An agenda is important to help frame the event, both for the organizers and the participants.
@@ -191,9 +190,12 @@ The facilitation of registration will likely be informed by prior decisions (whe
 
 #### 13. Advertise the Event
 
-Now that most decisions have been made and prospective participants should have enough information to decide if they want to register, it's time to advertise the event. Using the social media platform(s), and any other avenues you should send out, or send a link to, the event summary which has a link to registration. Organizers will need to determine how long before the event to open registration and start advertising, keeping in mind that if it's too long the participants may forget and not show up and if it's too short notice they may not be available. There is a good middle ground, the decision will need to be made based on the your event specifically but we recommend opening registration about 3 weeks in advance.
+Now that most decisions have been made and prospective participants should have enough information to decide if they want to register, it's time to advertise the event. 
+Using the social media platform(s), and any other avenues you should send out, or send a link to, the event summary which has a link to registration. 
 
-#### 14. Create Training Materials
+Organizers will need to determine how long before the event to open registration and start advertising, keeping in mind that if it's too long the participants may forget and not show up and if it's too short notice they may not be available. 
+
+There is a good middle ground, the decision will need to be made based on the your event specifically but _**we recommend opening registration about 3 weeks in advance**_.
 
 #### 15. Create Teams
 
