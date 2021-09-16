@@ -19,6 +19,9 @@ Cons:
 
 ### Virtual
 
+TIP:
+- Create one .ICS that has all calendar block so you don't need to create multiple invites for training and meetings.
+
 Pros:
 
 - "**Free**" (for the most parts)
@@ -31,6 +34,7 @@ Cons:
   - We've seen people bail out at the last minute and saw teams having to scramble to find people with the right skills
 - Needing to emphasize on collabrative atmosphere (*such as turning the video on. Allowing each other to speak and take turns sharing their screen*)
 - Requiring Consent from participants for recorded contents
+
 
 
 ### Hybrid
