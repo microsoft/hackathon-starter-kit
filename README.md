@@ -2,8 +2,8 @@
 
 The purpose of this project is to provide a baseline of understanding, steps to be taken, best practices and guidance on how to run a Hackathon. This project will contain information on how to run two types of Hackathons: 
 
-- **Corporate Internal Hackathon**: all participants are employed by a single organization. These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property.
-- **Community Hackathon**: participants are mostly sourced from the public. Due to the marketing tasks and varied experience of the participants, these can be the most complex to run. The artifacts created in Community Hackathons are typically (but not always) Open Source.
+- **Corporate Internal Hackathon**: all participants are employed by a single organization. These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property. (More thoughts on internal hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/community-hack/README.md).)
+- **Community Hackathon**: participants are mostly sourced from the public. Due to the marketing tasks and varied experience of the participants, these can be the most complex to run. The artifacts created in Community Hackathons are typically (but not always) Open Source. (More thoughts specific to community hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/internal-hack/README.md).)
 
 The content provided here is derived from the experiences of the contributors, makes no claim that this guidance is the only way to execute on these events and as such welcome input from the community in any regard (please see [Contributing](#Contributing) for further details).
 
