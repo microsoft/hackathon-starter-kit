@@ -22,6 +22,10 @@ Will you be creating teams? How and when will the teams be formed? Prior to the 
 
 > If you are using MS Teams we have created a custom Team Builder app you can use 
 
+Will you want to gamify your hackathon? 
+
+> If you are using MS Teams we have created a custom Gamification app you can use 
+
 
 
 
