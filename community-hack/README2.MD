@@ -18,13 +18,16 @@ Development environment? (Azure, PowerApps.. etc)
 
 
 ## Technical 
-Will you be creating teams? How and when will the teams be formed? Prior to the hackathon or during the hackathon?
+### Will you be creating teams? How and when will the teams be formed? Prior to the hackathon or during the hackathon?
 
 > If you are using MS Teams we have created a custom Team Builder app you can use 
 
-Will you want to gamify your hackathon? 
+### Will you want to gamify your hackathon? 
 
 > If you are using MS Teams we have created a custom Gamification app you can use 
+
+### Is your hackathon going to be produciong OSS? 
+You can leverage Github to host the repositories/solutions 
 
 
 
