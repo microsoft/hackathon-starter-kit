@@ -4,33 +4,47 @@
 
 The purpose of this project is to provide a baseline of understanding, steps to be taken, best practices and guidance on how to run a Hackathon. This project will contain information on how to run two types of Hackathons: 
 
-- **Corporate Internal Hackathon**: all participants are employed by a single organization. These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property. (More thoughts on internal hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/community-hack/README.md).)
-- **Community Hackathon**: participants are mostly sourced from the public. Due to the marketing tasks and varied experience of the participants, these can be the most complex to run. The artifacts created in Community Hackathons are typically (but not always) Open Source. (More thoughts specific to community hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/internal-hack/README.md).)
+**Internal Hackathon**
+> All participants are employed by a single organization. 
 
-The content provided here is derived from the experiences of the contributors, makes no claim that this guidance is the only way to execute on these events and as such welcome input from the community in any regard (please see [Contributing](#Contributing) for further details).
+These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property. 
+
+Thoughts on internal hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/internal-hack/README.md).)
+
+**Community Hackathon** 
+> participants are mostly sourced from the public. 
+
+Due to the marketing tasks and varied experience of the participants, these can be the most complex to run. The artifacts created in Community Hackathons are typically (but not always) Open Source. (More thoughts specific to community hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/community-hack/README.md).)
+
+*The content provided here is derived from the experiences of the contributors, makes no claim that this guidance is the only way to execute on these events and as such welcome input from the community in any regard (please see [Contributing](#Contributing) for further details).*
 
 ## What is a Hackathon?
 https://github.com/microsoft/hackathon-starter-kit/blob/main/whatisahackathon.md
 
 ## Why run a Hackathon?
 
-There are many reasons to run a hackathon. Recruiting talents, marketing a product (or a company) and building new skillsets, to name a few. There are different ways to run a hackathon and as mentioned above, at least within Microsoft, we have two categories; Community and Internal hackathons.  
-
-(To note, the term [MVP](https://bloombergcities.jhu.edu/news/explainer-what-mvp-or-minimal-viable-product) will get thrown a lot when you attend hackathons. Yes, many times hackathons run in the name of creating an MVP but that is not always the case) 
+- blog coming up soon
 
 **For internal**: We see a hackathon being run in the internal format when we want to build muscles for the employees. 
-  - For sales, they need to be trained in products they are selling. Hackathon allows hands-on experience with new/existing products they may not be familiar with. It will help them to understand how the products can help the customers and engage with them more personally.
-  - For solution architects, they need to know the ins and outs of the products they are solutioning for the customers. Hackathon can give them an opportunity to solution real world scenarios, that they might not have otherwise encountered, in depth. 
-  - For engineers, they need to know how different services/products work to incorporate into their own product. You can imagine a tech company that is big as Microsoft has enormous amount of services we offer and not all engineering teams are familiar with all the offerings. Hackathon would be a great way for one team to learn about other products and also build collaboration with other teams.
 
-**Community**: This type of hackathon is run typically when you want to source ideas for a problem or recruit talent to build some prototype or MVP to solve a problem. Community hackathons may also be used to market a product (often to developers). You might want to run a hackathon staffed with coaches from your company to help developers use your API/service/tool to build or integrate solutions.
+  - Collaborate & Learn
+  - Drive Innovation
+  - Technical Upskilling
+  - Shifting Culture
+
+**Community**: An organization can run the community alone or partner with other organizations to gather more audience. 
+
+  - Find solutions for industry related problems or for targeted audiences 
   - For companies, they can host hackathons in the hopes of recruiting gifted talents that fit their vision and culture. For example, [Kaggle](https://www.kaggle.com/competitions) is an online data science/machine learning community and they host competitions.
   - Some organizations may be launching new products or initiatives so they may host a hackathon for potential clients to market their new offerings. 
   - For VCs and investors, they can host hackathons to find talents and ideas they can invest in. Hackathons such as these will drive innovation and attract many great talents with great ideas
+  
 
 For more examples of real world reasons why you should run a hackathon:
 
 [Why you should run a hackathon](https://eventornado.com/blog/why-your-company-should-run-a-hackathon#:~:text=7%20reasons%20why%20your%20company%20should%20run%20a,can%20attract%20powerful%20PR.%20...%20More%20items...%20)
+
+- blog coming up soon
 
 Reference Write-Ups:
 
