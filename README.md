@@ -1,3 +1,5 @@
+*We have added a ['Hackathon-Todo'](https://github.com/microsoft/hackathon-starter-kit/projects/1) project. It's our latest to-do Check it out!
+
 # Hackathon Starter Kit
 
 The purpose of this project is to provide a baseline of understanding, steps to be taken, best practices and guidance on how to run a Hackathon. This project will contain information on how to run two types of Hackathons: 
