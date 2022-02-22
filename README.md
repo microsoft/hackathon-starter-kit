@@ -9,7 +9,7 @@ The purpose of this project is to provide a baseline of understanding, steps to 
 
 These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property. 
 
-Thoughts on internal hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/internal-hack/README.md).)
+Thoughts on internal hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/internal-hack/README.md).
 
 **Community Hackathon** 
 > participants are mostly sourced from the public. 
@@ -25,7 +25,7 @@ https://github.com/microsoft/hackathon-starter-kit/blob/main/whatisahackathon.md
 
 - blog coming up soon
 
-**For internal**: We see a hackathon being run in the internal format when we want to build muscles for the employees. 
+**Internal**: We see a hackathon being run in the internal format when we want to build muscles for the employees. 
 
   - Collaborate & Learn
   - Drive Innovation
