@@ -1,4 +1,4 @@
-*We have added a ['Hackathon-Todo'](https://github.com/microsoft/hackathon-starter-kit/projects/1) project. It's our latest to-do Check it out!
+*We have added a ['Hackathon-Todo'](https://github.com/microsoft/hackathon-starter-kit/projects/1) project. It's our latest to-do Check it out!*
 
 # Hackathon Starter Kit
 
