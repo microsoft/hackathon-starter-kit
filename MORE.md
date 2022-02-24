@@ -31,13 +31,11 @@ There are many reasons to run a hackathon. Recruiting talents, marketing a produ
   - Some organizations may be launching new products or initiatives so they may host a hackathon for potential clients to market their new offerings. 
   - For VCs and investors, they can host hackathons to find talents and ideas they can invest in. Hackathons such as these will drive innovation and attract many great talents with great ideas
 
-> Something to think about - Do you have a system in place to gather metrics to measure success for each of these items?
+> **Something to think about** - Do you have a system in place to gather metrics to measure success for each of these items?
 
-For more examples of real world reasons why you should run a hackathon:
+For more examples of real world reasons [why you should run a hackathon](https://eventornado.com/blog/why-your-company-should-run-a-hackathon#:~:text=7%20reasons%20why%20your%20company%20should%20run%20a,can%20attract%20powerful%20PR.%20...%20More%20items...%20)
 
-[Why you should run a hackathon](https://eventornado.com/blog/why-your-company-should-run-a-hackathon#:~:text=7%20reasons%20why%20your%20company%20should%20run%20a,can%20attract%20powerful%20PR.%20...%20More%20items...%20)
-
-- blog coming up soon (How hackathon can play a big role for the culture of an organization/team)
+> blog coming up soon (How hackathon can play a big role for the culture of an organization/team)
 
 Reference Write-Ups:
 
