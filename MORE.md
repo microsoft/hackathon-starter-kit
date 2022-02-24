@@ -37,9 +37,7 @@ For more examples of real world reasons [why you should run a hackathon](https:/
 
 > blog coming up soon (How hackathon can play a big role for the culture of an organization/team)
 
-Reference Write-Ups:
-
-> An example of a community hackathon - [NurseHack4Health - Spring 2021](https://www.healthpopuli.com/2021/05/17/nurses-hacking-for-health-and-compassionomics/)
+Reference Write-up (Community hackathon) - [NurseHack4Health - Spring 2021](https://www.healthpopuli.com/2021/05/17/nurses-hacking-for-health-and-compassionomics/)
 
 
 ## Problem Types and Categories
