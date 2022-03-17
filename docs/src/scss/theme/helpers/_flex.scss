@@ -1,0 +1,21 @@
+/* -------------------------------------------------------------------------- */
+/*                                    Flex                                    */
+/* -------------------------------------------------------------------------- */
+
+.flex-center {
+  align-items: center;
+  justify-content: center;
+}
+.flex-between-center {
+  justify-content: space-between;
+  align-items: center;
+}
+.flex-end-center {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.flex-1{
+  flex: 1;
+}
+

@@ -1,0 +1,10 @@
+.cta-image{
+  margin-bottom: 0;
+}
+
+@include media-breakpoint-up(xl) {
+  .cta-image{
+    margin-bottom: - 7.7rem;
+  }
+    
+}

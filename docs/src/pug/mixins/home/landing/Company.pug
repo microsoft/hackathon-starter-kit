@@ -1,0 +1,16 @@
+mixin Company(image)
+  .col-6.col-sm-4.col-md-4.col-lg-2.px-md-0&attributes(attributes)
+    img(src=`${CWD}assets/img/gallery/${image}`  alt='')
+
+mixin Companies
+  +Section.py-7
+    .row 
+      .col-12.mx-auto.align-items-center.text-center 
+        p.mb-4 Trusted by companies like
+
+    .row.align-items-center.justify-content-center.justify-content-lg-around
+      +Company('company-1.png').mb-5.mb-lg-0.text-center
+      +Company('company-2.png').mb-5.mb-lg-0.text-center
+      +Company('company-3.png').mb-5.mb-lg-0.text-center
+      +Company('company-4.png').mb-5.mb-lg-0.text-center
+      +Company('company-1.png').mb-5.mb-lg-0.text-center

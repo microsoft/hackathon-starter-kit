@@ -1,0 +1,145 @@
+/*-----------------------------------------------
+|   Object fit and Z-index
+-----------------------------------------------*/
+.fit-cover{ object-fit: cover; }
+.z-index-1{ z-index: 1; }
+.z-index-2{ z-index: 2 !important; }
+.z-index--1{ z-index: -1; }
+
+/*-----------------------------------------------
+|   Sidebar
+-----------------------------------------------*/
+.sticky-sidebar{ 
+  position: sticky;
+  z-index: $zindex-sticky;
+  top: $top-nav-height + 1; 
+}
+
+/*-----------------------------------------------
+|   Custom circle
+-----------------------------------------------*/
+.circle-dashed{
+  border: 1px dashed $primary;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+/*-----------------------------------------------
+|   Miscellaneous
+-----------------------------------------------*/
+
+.hover-text-decoration-none{
+  @include hover-focus{
+    text-decoration: none;
+  }
+}
+.resize-none{ resize: none; }
+
+.collapsed .collapse-icon {
+  transition: $transition-base;
+  transform: rotate(0deg);
+}
+.collapse-icon {
+  transition: $transition-base;
+  transform: rotate(90deg);
+}
+
+[data-dismiss="dropdown"],
+[data-offset-top],
+[data-toggle="collapse"],
+[data-toggle="tooltip"],
+[data-toggle="popover"]{
+  *{
+    pointer-events: none;
+  }
+}
+
+/*-----------------------------------------------
+|   Outline
+-----------------------------------------------*/
+
+.outline-none {
+  outline: none;
+  box-shadow: none;
+  @include hover-focus {
+    outline: none;
+    box-shadow: none;
+  }
+}
+
+/*-----------------------------------------------
+|   Vertical Line (used in kanban header)
+-----------------------------------------------*/
+.vertical-line {
+  &:after {
+    position: absolute;
+    content: "";
+    height: 75%;
+    width: 1px;
+    background: $gray-300;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  &.vertical-line-400 {
+    &:after {
+      background-color: $gray-400;
+    }
+  }
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                 Transition                                 */
+/* -------------------------------------------------------------------------- */
+
+.transition-base {
+  transition: $transition-base;
+}
+.transition-none{
+  transition: none;
+}
+
+.fsp-75{
+  font-size: 75%;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                    Width                                   */
+/* -------------------------------------------------------------------------- */
+
+.min-w-0{ min-width: 0; }
+
+/* -------------------------------------------------------------------------- */
+/*                                Terms sidebar                               */
+/* -------------------------------------------------------------------------- */
+
+.terms-sidebar {
+  .nav-link {
+    color: $gray-500;
+    font-weight: $font-weight-medium;
+    font-family: $font-family-sans-serif;
+    &.active {
+      color: $primary
+    }
+  }
+}
+
+
+
+// Pricing
+
+.card-price {
+  padding-left: .75rem;
+  padding-right: .75rem;
+  text-align: center;
+}
+
+// navbars
+
+.backdrop{
+  backdrop-filter: blur(3px);
+}

@@ -1,0 +1,29 @@
+/* -------------------------------------------------------------------------- */
+/*                                    Badge                                   */
+/* -------------------------------------------------------------------------- */
+
+.badge {
+  line-height: 0.8125rem;
+}
+
+.badge-circle {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  padding: 0 0.5rem;
+}
+
+@include media-breakpoint-up(md) {
+  .badge-circle {
+    height: 3.4rem;
+    width: 3.4rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    
+  }
+}
+

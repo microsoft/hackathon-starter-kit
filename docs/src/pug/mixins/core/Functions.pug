@@ -1,0 +1,43 @@
+mixin escape
+  - var oldBuf = pug_html;
+  - pug_html = '';
+  block
+  - pug_html = oldBuf + pug.escape(jsPretty(pug_html, {ocd: true}));
+
+mixin escapes
+  - var oldBuf = html_pug;
+  - html_pug = '';
+  block
+  - html_pug = oldBuf + pug.escape(jsPretty(html_pug, {ocd: true}));  
+    
+mixin componentCard
+  .row
+    .col-12
+      block
+    .col-12
+      pre.rounded.mt-2
+        code.language-html
+          +escape
+            block
+            
+mixin componentCardLib
+  pre.mt-2&attributes(attributes)
+    code.language-html
+      +escape
+        block
+
+mixin componentCardLibPug
+  pre.mt-2&attributes(attributes)
+    code.language-pug
+      +escape  
+        block
+        
+mixin cleanText(str)
+  | #{(str.charAt(0).toUpperCase() + str.slice(1)).replace(/-/g, ' ')}
+
+mixin getFirstLetter(str)
+  | #{str.match(/\b\w/g).join('')}
+
+mixin hash(title)
+  a(href=`#${title}`)
+    h2=title

@@ -1,0 +1,48 @@
+append variables
+ -
+    var afeatures = [
+      {
+        image:'fast-performance.png',
+        title:'Fast performance',
+        color: 'danger',
+        text:'Get your blood tests delivered at <br class="d-none d-xl-block"> home collect a sample from the <br class="d-none d-xl-block"> news your blood tests'
+      },
+      {
+        image:'prototype.png', 
+        color: 'primary',
+        title:'Prototyping',
+        text:'Get your blood tests delivered at <br class="d-none d-xl-block"> home collect a sample from the <br class="d-none d-xl-block"> news your blood tests'
+      },
+      {
+        image:'vector.png',
+        color: 'success',
+        title:'Vector Editing',
+        text:'Get your blood tests delivered at <br class="d-none d-xl-block"> home collect a sample from the <br class="d-none d-xl-block"> news your blood tests'
+      },
+     
+      ]
+
+mixin Feature(config) 
+  .d-flex.align-items-center.mb-5
+    div
+      img.img-fluid(src=`${CWD}assets/img/illustrations/${config.image}` width="90"  alt='')
+    .px-4
+      h5.fw-bold(class=`text-${config.color}`)=config.title
+      p!=config.text
+      
+mixin AwesomeFeatures
+  section.py-5#features
+    .container-lg
+      .row.align-items-center
+        .col-md-5.col-lg-6.order-md-0.text-center.text-md-start
+          img.img-fluid(src=`${CWD}assets/img/illustrations/feature-bg.png` width="550"  alt='')
+        .col-md-7.col-lg-6.px-sm-5.px-md-0
+          h6.fw-bold.fs-4.display-3.lh-sm Awesome apps 
+            br
+            |features
+          p.my-4 Increase productivity with a simple to-do app. app for 
+            br.d-none.d-xl-block
+            |managing your personal budgets.
+          each feature in afeatures
+            +Feature(feature)
+

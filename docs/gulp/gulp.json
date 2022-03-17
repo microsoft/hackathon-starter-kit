@@ -1,0 +1,35 @@
+{
+  "rtl": true,
+  "dir": {
+    "dev": "public",
+    "prod": "build"
+  },
+  "style": {
+    "src": "src/scss/**/*.scss",
+    "dest": "assets/css"
+  },
+  "script": {
+    "src": [
+      "src/js/utils.js",
+      "src/js/detector.js",
+      "src/js/**/!(utils | detector  )*.js",
+      "!src/js/theme.js",
+      "src/js/theme.js"
+    ],
+    
+    "dest": "assets/js"
+  },
+  "pug": {
+    "base": "src/pug",
+    "src": {
+      "all": "src/pug/**/*.pug",
+      "pages": [
+        "*.pug",
+        "pages/**/*.pug",
+        "pages/*.pug"
+      ]
+    },
+    "dest": ""
+  },
+  "watch": ["assets/img", "assets/video", "assets/fonts", "vendors"]
+}

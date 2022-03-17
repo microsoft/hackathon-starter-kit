@@ -1,0 +1,18 @@
+extends Layout
+include ../mixins/navbars/NavbarApplab
+include ../mixins/Variables
+
+prepend scripts
+  script(src=`https://polyfill.io/v3/polyfill.min.js?features=window.scroll`)
+
+ 
+append footerStyles
+  link(href='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400&display=swap' rel='stylesheet')
+
+block mainContent 
+  +NavbarApplab
+  block wrapperContent 
+    block beforeContent
+    block content
+    block afterContent
+  //- +pre-footer

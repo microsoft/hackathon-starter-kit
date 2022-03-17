@@ -1,0 +1,63 @@
+append variables
+ -
+    var services = [
+      {
+        image:'search.png',
+        title:'Search doctor',
+        text:'Choose your doctor from thousands of specialist, general, and trusted hospitals'
+      },
+      {
+        image:'online-pharmacy.png', 
+        title:'Online pharmacy',
+        text:'Buy  your medicines with our mobile application with a simple delivery system'
+      },
+      {
+        image:'consultation.png',
+        title:'Consultation',
+        text:'Free consultation with our trusted doctors and get the best recomendations'
+      },
+      {
+        image:'details-info.png',
+        title:'Details info',
+        text:'You can get 24/7 urgent care for yourself or your children and your lovely family'
+      },
+      {
+        image:'emergency-care.png',
+        title:'Emergency care',
+        text:'Track and save your medical history and health data '
+      },
+      {
+        image:'tracking.png',
+        title:'Tracking',
+        text:'Track and save your medical history and health data '
+        }
+    ]
+
+mixin Service(config)
+  .col-sm-9.col-md-4
+    .card.h-100.w-100.shadow.rounded-lg.p-3.p-md-2.p-lg-3.p-xl-5
+      .card-body.text-center.text-md-start
+        .py-3
+          img.img-fluid(src=`${CWD}assets/img/illustrations/${config.image}` height='90'   alt='') 
+        .py-3
+          h4.fw-bold.card-title=config.title
+          p.card-text=config.text               
+
+mixin Services
+  section.py-8
+    +Background({ image: `${CWD}assets/img/illustrations/services-bg.png`, attrs: { style: { 'background-position': 'center left', 'background-size': 'auto',} }, className: '' })
+    +Background({ image: `${CWD}assets/img/illustrations/dot-2.png`, attrs: { style: { 'background-position': 'center right', 'background-size': 'auto','margin-left':'-180px','margin-top':'20px'} }, className: '' })
+    .container-lg
+      .row.justify-content-center
+        .col-3.text-center
+          h2.fw-bold Our services
+          hr.w-25.mx-auto.text-dark(style="height:2px;")
+      .row.justify-content-center   
+        .col-sm-9.col-xl-8.text-center
+          p We provide to you the best choiches for you. Adjust it to your health needs and make sure your undergo treatment with our highly qualified doctors you can consult with us which type of service is suitable for your health
+
+      .row.justify-content-center.h-100.pt-7.g-4
+        each service in services
+          +Service(service)
+        .text-center.py-4
+          button.btn.btn-lg.btn-outline-primary.rounded-pill(type='submit') Learn more 

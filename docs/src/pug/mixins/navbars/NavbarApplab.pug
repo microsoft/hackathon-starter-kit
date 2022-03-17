@@ -1,0 +1,24 @@
+mixin NavbarApplab
+  nav.navbar.navbar-expand-lg.navbar-light.fixed-top.py-3(data-navbar-on-scroll)
+    .container
+      a.navbar-brand.d-flex.align-items-center.fw-bold.fs-2(href='index.html') 
+        .text-warning App
+        .text-1000 Lab
+      button.navbar-toggler.collapsed(type='button' data-bs-toggle='collapse' data-bs-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation')
+        span.navbar-toggler-icon
+    
+      #navbarSupportedContent.collapse.navbar-collapse.border-top.border-lg-0.mt-4.mt-lg-0
+        ul.navbar-nav.ms-auto.pt-2.pt-lg-0
+          li.nav-item(data-anchor)
+            a.nav-link.fw-medium(aria-current='page', href='#home' class= currentPage === 'index' ? 'active' : false ) Home
+          li.nav-item(data-anchor)
+            a.nav-link.fw-medium(href='#features') Key Features
+          li.nav-item(data-anchor)
+            a.nav-link.fw-medium(href='#pricing') Pricing
+          li.nav-item(data-anchor)
+            a.nav-link.fw-medium(href='#testimonial') Testimonial
+          li.nav-item(data-anchor)
+            a.nav-link.fw-medium(href='#faq') FAQ
+          
+        form.ps-lg-5
+          button.btn.btn-lg.btn-primary.rounded-pill.order-0(type='submit') Try for free

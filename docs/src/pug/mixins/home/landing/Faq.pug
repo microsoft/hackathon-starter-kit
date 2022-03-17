@@ -1,0 +1,51 @@
+append variables
+ -
+    var faqs= [
+      {
+        id: 1,
+        title  :'How to contact with riders emergency?',
+        description: 'Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.',
+      },
+      {
+        id: 2,
+        title  :'App installation failed, how to update system information?',
+        description: 'You can issue either partial or full refunds. There are no fees to refund a charge, but the fees from the original charge are not returned.',
+      },
+      {
+        id: 3,
+        title  :'Website reponse taking time, how to improve?',
+        description: 'Disputed payments (also known as chargebacks) incur a $15.00 fee. If the customer’s bank resolves the dispute in your favor, the fee is fully refunded.',
+      },
+      {
+        id: 4,
+        title  :'New update fixed all bug and issues',
+        description: 'There are no additional fees for using our mobile SDKs or to accept payments using consumer wallets like Apple Pay or Google Pay.',
+      },
+
+      {
+        id: 5,
+        title  :'How to contact with riders emergency?',
+        description: 'There are no additional fees for using our mobile SDKs or to accept payments using consumer wallets like Apple Pay or Google Pay.',
+      },
+    ];
+
+mixin Faq(config, index)
+  .accordion-item.mb-2
+    h2(id=`heading${config.id}`).accordion-header
+      button.accordion-button(type='button' data-bs-toggle='collapse'  class=index == 0 ? false : 'collapsed'  data-bs-target=`#collapse${config.id}` aria-expanded='true' aria-controls=`collapse${config.id}`)
+        span.mb-0.fw-bold.text-start.fs-1.text-1000=config.title
+    .accordion-collapse.collapse(id=`collapse${config.id}` class=index == 0 ? 'show' : false  aria-labelledby=`heading${config.id}`  data-bs-parent='#accordionExample')
+      .accordion-body.bg-100=config.description
+        
+mixin Faqs
+  +Section.py-8#faq
+    .row.justify-content-center
+      .col-md-8.col-lg-6.text-center.mb-3
+        h6.fw-bold.fs-4.display-3.lh-sm.mb-3 Frequently asked questions
+        p.mb-5 The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.
+
+    .row.flex-center
+      .col-lg-9
+        #accordionExample.accordion
+          each faq, index in faqs
+            +Faq(faq, index)

@@ -1,0 +1,20 @@
+mixin HeroHeader
+  section.py-0#home
+    +Background({ image: `${CWD}assets/img/illustrations/hero-bg.png`, attrs: { style: { 'background-position': 'bottom', 'background-size': 'cover',} }, className: '' }) 
+    .container.position-relative
+      .row.align-items-center.py-8
+        .col-md-5.col-lg-6.order-md-1.text-center.text-md-end
+          img.img-fluid(src=`${CWD}assets/img/illustrations/mobile.png` width="350"  alt='')
+        .col-md-7.col-lg-6.text-center.text-md-start
+          span.badge.bg-light.rounded-pill.text-dark.align-items-center.d-flex.flex-row-reverse.justify-content-end.mx-auto.mx-md-0.ps-0.w-75.w-sm-50.w-md-75.w-xl-50.mb-3 #1 Editiors Choice App of 2020
+            img.img-fluid.float-start.me-3(src=`${CWD}assets/img/illustrations/arrow-right.png`   alt='')
+          h1.mb-4.display-3.fw-bold.lh-sm Best app for your 
+            br.d-block.d-lg-none.d-xl-block
+            |modern lifestyle
+          p.mt-3.mb-4.fs-1 Increase productivity with a simple to-do app. app for  
+            br.d-none.d-lg-block
+            | managing your personal budgets.
+           
+          a.btn.btn-lg.btn-primary.rounded-pill.hover-top(href='#' role='button')
+            | Try for free
+          a.btn.btn-link.ps-md-4(href='#' role='button')  Watch demo video

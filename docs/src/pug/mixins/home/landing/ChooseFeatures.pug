@@ -1,0 +1,53 @@
+append variables
+ -
+    var cfeatures = [
+      {
+        image:'app.png',
+        title:'App Development',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+      {
+        image:'time-award.png', 
+        title:'10 Times Award',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+      {
+        image:'cloud.png',
+        title:'Cloud Storage',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+       {
+        image:'customization.png',
+        title:'Customization',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+       {
+        image:'ux.png',
+        title:'UX Planning',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+       {
+        image:'support.png',
+        title:'Customer Support',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+      ]
+
+mixin ChooseFeature(config)
+  .col-md-4.mb-6
+    .text-center.px-lg-3
+      img.img-fluid.mb-3(src=`${CWD}assets/img/illustrations/${config.image}` width="90"  alt='')
+      h5.fw-bold=config.title
+      p.mb-md-0=config.text
+
+mixin ChooseFeatures
+  +Section.py-6
+    .row.justify-content-center.mb-6
+      .col-lg-6.text-center.mx-auto.mb-3.mb-md-5.mt-4
+        h6.fw-bold.fs-4.display-3.lh-sm Why you should choose 
+          br
+          | our app 
+        p.mb-0 The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.
+    .row 
+      each feature in cfeatures 
+        +ChooseFeature(feature )    

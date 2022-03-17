@@ -1,0 +1,65 @@
+
+
+// //*----------------------------- from bootstrap carousel ------------------*//
+
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  // Use flex for alignment (1-3)
+  display: flex; // 1. allow flex styles
+  align-items: center; // 2. vertically center contents
+  justify-content: center; // 3. horizontally center contents
+  width: $carousel-control-width;
+  color: $carousel-control-color;
+  text-align: center;
+  opacity: $carousel-control-opacity;
+  @include transition($carousel-control-transition);
+
+  // Hover/focus state
+  &:hover,
+  &:focus {
+    color: $carousel-control-color;
+    text-decoration: none;
+    outline: 0;
+    opacity: $carousel-control-hover-opacity;
+  }
+}
+.carousel-control-prev {
+  left: 0;
+  background-image: if($enable-gradients, linear-gradient(90deg, rgba($black, .25), rgba($black, .001)), null);
+}
+.carousel-control-next {
+  right: 0;
+  background-image: if($enable-gradients, linear-gradient(270deg, rgba($black, .25), rgba($black, .001)), null);
+}
+
+.carousel-indicators {
+  position: static;
+  justify-content: start;
+  margin:  0;
+
+ li{
+  border-radius: 50%;
+
+ }
+
+  .active {
+    opacity: $carousel-indicator-active-opacity;
+    background-color: $primary;
+    width: 9px;
+    height:9px;
+  }
+}
+
+.carousel-control-prev {
+  left: auto;
+  right: 45px;
+}
+// .carousel-control-next {
+//   right: 0;
+//   left: 0;
+// }
+

@@ -1,0 +1,41 @@
+append variables
+ -
+    var smartfeatures = [
+      {
+        image:'automatic.png',
+        title:'Fast performance',
+        color: 'danger',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+      {
+        image:'network.png', 
+        color: 'primary',
+        title:'Prototyping',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+      {
+        image:'rewards.png',
+        color: 'success',
+        title:'Vector Editing',
+        text:'Get your blood tests delivered at home collect a sample from the news your blood tests.'
+      },
+     
+      ]
+
+mixin SmartFeature(config)
+  .col-md-4.col-lg-3.offset-lg-1.mb-4
+    .py-4
+      img.img-fluid(src=`${CWD}assets/img/illustrations/${config.image}` width="90"  alt='')
+    h5.fw-bold(class=`text-${config.color}`)=config.title
+    p.mt-2.mb-0=config.text
+
+mixin SmartFeatures
+  +Section.py-5
+    .row.align-items-center.mb-6
+      .col-md-5.col-lg-4.offset-lg-1
+        h1.fw-bold.lh-base Smart jackpots that you may love this anytime &amp; anywhere
+      .col-md-6.col-lg-5.offset-lg-1.border-start.py-5.ps-5
+        p.mb-0 The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.
+    .row 
+      each feature in smartfeatures
+        +SmartFeature(feature)

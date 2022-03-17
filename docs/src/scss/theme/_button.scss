@@ -1,0 +1,21 @@
+/*-----------------------------------------------
+|   LaslesVPN glow buttons
+-----------------------------------------------*/
+.btn-glow {
+  position: relative;
+  &::before{
+    content: '';
+    height: 80%;
+    width: 80%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    display: inline-block;
+    background-color: inherit;
+    opacity: 0.55;
+    filter: blur(26px);
+    transform: translateY(45%);
+    z-index: -1;
+    border-radius: 10px;
+  }
+}
