@@ -16,14 +16,14 @@ A hackathon is underpinned and identified by these core tenants:
 - Creative problem solving. While there are no laws or rules a hackathon must include a technological (software, etc.) component, it most often does. If it doesn't include a technology component, it is usually more akin to a brainstorming session.
 - A gathering of individuals working together, attempting to solve a common problem or set of problems. Yes, you could be a HACKATHON TEAM of one, but given the short duration of most hackathons and the complexity of problems to be solved in the world today, diverse teams are almost always going to be more effective in creating solutions to a problem.
 
+Here are some things we think that are critical to running a hackathon: 
+
   - [Types of Hackathons](https://github.com/microsoft/hackathon-starter-kit/blob/main/MORE.md#types-of-hackathons)
   - [Why run a hackathon](https://github.com/microsoft/hackathon-starter-kit/blob/main/MORE.md#why-run-a-hackathons)
   - [Defining Problem Statements](https://github.com/microsoft/hackathon-starter-kit/blob/main/MORE.md#problem-types-and-categories)
   - [Defining Roles](https://github.com/microsoft/hackathon-starter-kit/blob/main/MORE.md#roles)
   - [Defining Success Criteria](https://github.com/microsoft/hackathon-starter-kit/blob/main/MORE.md#defining-success)
   - [Recommending Open Source Approach](https://github.com/microsoft/hackathon-starter-kit/blob/main/MORE.md#open-source)
-
-[Want to know more?](https://github.com/microsoft/hackathon-starter-kit/blob/main/MORE.md)
 
 
 ## Contributing
