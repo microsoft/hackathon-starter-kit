@@ -4,8 +4,8 @@
 
 Different types of hackathons:
 
-- [Internal Hackathon](../Internal-Hackathon/README.md)
-- [External Hackathon](../Community-Hackathon/README.md)
+- [Internal Hackathon](../internal-hack/README.md)
+- [External Hackathon](../community-hack/README.md)
 
 > There are few key planning differences between these two types of hackathons. Write up coming soon!  
 
