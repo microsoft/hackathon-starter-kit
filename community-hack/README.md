@@ -2,14 +2,13 @@
 
 This page is designed to provide guidance, and ideas on running a Community Hackathon.  
 
-<<<<<<< HEAD
 ## Proposed steps to run 
 1. [Determine Name](#1-determine-name-purpose-and-outcomes-of-the-hackathon)
 2. [Set Date/Duration](#2-set-date-and-determine-event-duration)
 3. [Roles](#3-determine-the-roles-needed-for-the-event)
 4. [How will it be advertised](#4-determine-how-the-event-will-be-advertised)
 5. [Budget](#5-set-budget-and-determine-finances)
-6. [Hacktahon Artifacts](#6-determine-how-and-where-artifacts-will-be-shared)
+6. [Hacktahon Artifacts](#6-determine-how-and-where-artifacts-will-be-shared) 
 7. [Team Formation](#7-determine-if-teams-will-be-assigned-or-self-organizing)
 8. [Who, Why, What](#8-write-a-summary-of-the-event-including-who-why-when-how-and-expected-outcomes)
 9. [Pre-hackathon material](#9-create-a-list-of-pre-hack-educational-material)
@@ -20,11 +19,9 @@ This page is designed to provide guidance, and ideas on running a Community Hack
 14. [Meeting Invites](#14-send-team-meeting-invites-if-not-using-breakout-rooms)
 15. [Kick-Off Deck](#15-build-kickoff-deck) / [Post remark Deck](#17-build-closing-remarks-deck)
 16. [Survey](#16-build-post-hack-survey)
-=======
+
 [In-person or virtual or hybrid?](./ThingsToKeepInMind.md)
 
-## Steps to run a Community Hackathon
->>>>>>> main
 
 #### 1. Determine Name, Purpose and Outcomes of the Hackathon
 
