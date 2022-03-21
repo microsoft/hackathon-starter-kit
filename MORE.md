@@ -1,5 +1,5 @@
 ## Types of Hackathons
-**Internal Hackathon**
+**Internal or Company Hackathon**
 > All participants are employed by a single organization. 
 
 These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property. 
@@ -7,7 +7,7 @@ These are often the most simple hackathons to run, and can produce multiple type
 Thoughts on internal hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/internal-hack/README.md).
 
 
-**Community Hackathon** 
+**External Hackathon** 
 > participants are mostly sourced from the public. 
 
 Due to the marketing tasks and varied experience of the participants, these can be the most complex to run. The artifacts created in Community Hackathons are typically (but not always) Open Source. (More thoughts specific to community hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/community-hack/README.md).)
@@ -24,7 +24,7 @@ There are many reasons to run a hackathon. Recruiting talents, marketing a produ
   - Technical Upskilling
   - Shifting Culture
 
-**Community**: An organization can run the community alone or partner with other organizations to gather more audience. 
+**External**: An organization can run the hackathon alone or partner with other organizations to gather more audience. 
 
   - Discover solutions for industry related problems or for targeted audiences 
   - For companies, they can host hackathons in the hopes of recruiting gifted talents that fit their vision and culture. For example, [Kaggle](https://www.kaggle.com/competitions) is an online data science/machine learning community and they host competitions.
