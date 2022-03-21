@@ -18,12 +18,12 @@ A hackathon is underpinned and identified by these core tenants:
 
 Here are some things we think that are critical to running a hackathon: 
 
-  - [Types of Hackathons](https://github.com/microsoft/hackathon-starter-kit/blob/website/MORE.MD#types-of-hackathons)
-  - [Why run a hackathon](https://github.com/microsoft/hackathon-starter-kit/blob/website/MORE.MD#why-run-a-hackathons)
-  - [Defining Problem Statements](https://github.com/microsoft/hackathon-starter-kit/blob/website/MORE.MD#problem-types-and-categories)
-  - [Defining Roles](https://github.com/microsoft/hackathon-starter-kit/blob/website/MORE.MD#roles)
-  - [Defining Success Criteria](https://github.com/microsoft/hackathon-starter-kit/blob/website/MORE.MD#defining-success)
-  - [Recommending Open Source Approach](https://github.com/microsoft/hackathon-starter-kit/blob/website/MORE.MD#open-source)
+  - [Types of Hackathons](MORE.MD#types-of-hackathons)
+  - [Why run a hackathon](MORE.MD#why-run-a-hackathons)
+  - [Defining Problem Statements](MORE.MD#problem-types-and-categories)
+  - [Defining Roles](MORE.MD#roles)
+  - [Defining Success Criteria](MORE.MD#defining-success)
+  - [Recommending Open Source Approach](MORE.MD#open-source)
 
 
 ## Contributing
