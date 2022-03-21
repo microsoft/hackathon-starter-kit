@@ -11,7 +11,7 @@ To ensure a successful hackathon, consider the following big picture questions:
 	What is the timeline of the hackathon? (When and how long)
 	what is the Hackathon Budget?
 
-#### Assemble your team
+### Assemble your team
 
 **Organizing Committee**
 
@@ -34,7 +34,7 @@ participating actively in hacking events.
 **Legal Team**
 - For Data Privacy and Intellectual Property (IP). As well as sending out Prizes
 
-#### Problem Statements
+### Problem Statements
 Without a problem to address, or categorical area of focus, participants in a hackathon are likely to spend too much time trying to determine a path and may ultimately not provide value to the intended goal of the event. For this reason it is important to define the problem statement, and or areas of focus ahead of time.
 
 Keep in mind that even if you do ask the participants to bring their own problem statements (which is completely fine), it's helpful to provide problem types or categories to help keep the event focused. Remember, hackathons generally have a constrained amount of time. One of the most difficult components of that aspect is balancing specific direction and ideation of the partipants.
