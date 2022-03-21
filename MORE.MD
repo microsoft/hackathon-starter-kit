@@ -4,13 +4,13 @@
 
 These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property. 
 
-Thoughts on internal hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/internal-hack/README.md).
+Thoughts on internal hackathons [here](/internal-hack/README.md).
 
 
 **External Hackathon** 
 > Participants are mostly sourced from the public. Organization can work with both internal and external experts.
 
-Due to the marketing tasks and varied experience of the participants, these can be the most complex to run. The artifacts created in external Hackathons are typically (but not always) Open Source. (More thoughts specific to community hackathons [here](https://github.com/microsoft/hackathon-starter-kit/blob/main/community-hack/README.md).)
+Due to the marketing tasks and varied experience of the participants, these can be the most complex to run. The artifacts created in external Hackathons are typically (but not always) Open Source. (More thoughts specific to community hackathons [here](/community-hack/README.md).)
 
 *The content provided here is derived from the experiences of the contributors, makes no claim that this guidance is the only way to execute on these events and as such welcome input from the community in any regard (please see [Contributing](#Contributing) for further details).*
 
