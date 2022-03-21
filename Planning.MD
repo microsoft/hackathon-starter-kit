@@ -25,14 +25,14 @@ Champions "raving fans" can naturally connect with people and share their experi
 
 
 Project Manager
-	PMs help keeping track of the progress and putting pressure on people as needed
+- PMs help keeping track of the progress and putting pressure on people as needed
 	
 IT Team
-	Setting up  platform, website, registration, technical support
+- Setting up  platform, website, registration, technical support
 	
 Marketing Team
-	Communications and outreach, Content creation for targeted messaging
+- Communications and outreach, Content creation for targeted messaging
 	
 Legal Team
-	For Data Privacy and Intellectual Property (IP). As well as sending out Prizes
+- For Data Privacy and Intellectual Property (IP). As well as sending out Prizes
 
