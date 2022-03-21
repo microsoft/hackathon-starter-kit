@@ -1,5 +1,5 @@
 ## Types of Hackathons
-**Internal or Company Hackathon**
+**Internal Hackathon**
 > All participants are employed by a single organization. 
 
 These are often the most simple hackathons to run, and can produce multiple types of artifacts including Open Source, Inner Source, and potentially Intellectual Property. 
