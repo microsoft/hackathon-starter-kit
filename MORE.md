@@ -15,7 +15,7 @@ Due to the marketing tasks and varied experience of the participants, these can 
 *The content provided here is derived from the experiences of the contributors, makes no claim that this guidance is the only way to execute on these events and as such welcome input from the community in any regard (please see [Contributing](#Contributing) for further details).*
 
 ## Why run a Hackathon?
-There are many reasons to run a hackathon. Recruiting talents, marketing a product (or a company) and building new skillsets, to name a few. There are different ways to run a hackathon and as mentioned above, at least within Microsoft, we have two categories; Community and Internal hackathons.  
+There are many reasons to run a hackathon. Recruiting talents, marketing a product (or a company) and building new skillsets, to name a few. There are different ways to run a hackathon and as mentioned above, at least within Microsoft, we have two categories; External and Internal hackathons.  
 
 **Internal**: We see a hackathon being run in the internal format when we want to build muscles for the employees. 
 
