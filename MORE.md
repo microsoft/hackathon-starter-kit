@@ -26,7 +26,7 @@ There are many reasons to run a hackathon. Recruiting talents, marketing a produ
 
 **Community**: An organization can run the community alone or partner with other organizations to gather more audience. 
 
-  - Find solutions for industry related problems or for targeted audiences 
+  - Discover solutions for industry related problems or for targeted audiences 
   - For companies, they can host hackathons in the hopes of recruiting gifted talents that fit their vision and culture. For example, [Kaggle](https://www.kaggle.com/competitions) is an online data science/machine learning community and they host competitions.
   - Some organizations may be launching new products or initiatives so they may host a hackathon for potential clients to market their new offerings. 
   - For VCs and investors, they can host hackathons to find talents and ideas they can invest in. Hackathons such as these will drive innovation and attract many great talents with great ideas
