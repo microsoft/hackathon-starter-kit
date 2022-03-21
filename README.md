@@ -26,6 +26,7 @@ Here are some things we think that are critical to running a hackathon:
   - [Recommending Open Source Approach](MORE.MD#open-source)
 
 
+
 ## Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
