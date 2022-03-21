@@ -15,9 +15,14 @@ To ensure a successful hackathon, consider the following big picture questions:
 
 Organizing Committee
 
+
+Sponsors and champions
+
 Securing an executive sponshorship, buy in and support is vital to the credibility of the hackathon. Executive sponsorship can 
 be at different levels, from lending their ‘name’ as sponsor to being involved in challenges, to 
-participating actively in hacking events. 
+participating actively in hacking events.
+Champions "raving fans" can naturally connect with people and share their experience with hackathon.
+
 
 Project Manager
 	PMs help keeping track of the progress and putting pressure on people as needed
