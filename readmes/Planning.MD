@@ -1,5 +1,13 @@
 # Planning
+
 ### Planning is key for a successful hackathon from securing a sponsor to setting the dates and judging criteria.
+
+Different types of hackathons:
+
+- [Internal Hackathon](../Internal-Hackathon/README.md)
+- [External Hackathon](../Community-Hackathon/README.md)
+
+> There are few key planning differences between these two types of hackathons. Write up coming soon!  
 
 To ensure a successful hackathon, consider the following big picture questions:
  
