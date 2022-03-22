@@ -117,15 +117,7 @@ Lastly, if the event is being recorded at all (kickoff/closing, "action shots", 
 - Do participants need to sign a Media Release Consent? 
   - If not, provide notice to the participants when recording is about to start so they can choose whether or not they want to be recorded.
 
-#### 7. How will the participants register?
-
-If using Teams, the best way for people to register is using a MS account. As people need to be added as guests to a MS tenant you want to minimize much friction as possible from the get-go. We wouldn't want them to send unnecessary emails to ask them to register for an MS account and having to ask them to send us their MS account email.
-
-- We created an [User Registration API](https://github.com/microsoft/NH4H-UserReg/) (always maintained) to get you started with the registration 
-
-> We had ran our fair share of hackathons and found using a MS social login is the best way to register participants if MS Teams is the way you want to collaborate. That way, there is no confusion for the registrant. 
-
-#### 8. Determine if Teams will be Assigned or Self-Organizing
+#### 7. Determine if Teams will be Assigned or Self-Organizing
 
 Depending on the type of event, the organizers may want the teams to be self-organizing or to be assigned by the organizers. There are Pros and Cons to each configuration and the decision should be made specific to that event.
 
@@ -135,7 +127,7 @@ If the teams are going to be assigned, what is the criteria for the creation of 
 
 > If people are having hard time trying to decide, it may be good to remind them not to overthink. Let them know this is just a weekend hackathon and the point is to learn, hack, network, and most importantly, to have fun!
 
-#### 9. Write a Summary of the Event including "Who, Why, When, How" and Expected Outcomes
+#### 8. Write a Summary of the Event including "Who, Why, When, How" and Expected Outcomes
 
 Writing the event summary will be helpful when advertising so that you potential event participants can determine whether or not they will attend. Make sure to be as inclusive as possible in the wording of this summary as to not deter someone away, even if they may not be a "perfect fit" - that may just mean they can bring different viewpoints and experiences to the table.
 
@@ -157,7 +149,7 @@ At this point you may also want to determine the following items which may help 
 - Will there be winners, or prizes? This can help with a bit of friendly competition, and help drive participants towards a goal.
   - If so, who will adjudicate?
 
-#### 10. Create a List of Pre-Hack Educational Material
+#### 9. Create a List of Pre-Hack Educational Material
 
 Depending on the event, the organizers may want to put together material to review at their own pace to help the event run more smoothly. This could be reading, videos, etc.
 
@@ -176,7 +168,7 @@ Training material could include things like the following:
 > Understand people will have different degrees of technical background. You may even need to show someone how to share their screen! Oh, yes... It happens. :)
 
 
-#### 11. Create and Publish the Agenda
+#### 10. Create and Publish the Agenda
 
 An agenda is important to help frame the event, both for the organizers and the participants.
 
@@ -197,7 +189,7 @@ An agenda is important to help frame the event, both for the organizers and the 
 >   - (time) Closing Remarks
 > - (date) Event Retrospective (organizers, but may include participants if desired)
 
-#### 12. Create Sign-up Form
+#### 11. Create Sign-up Form
 
 Sign-up be facilitated through any platform that allows you to collect the right kind of information. You want to be mindful though of how the data is collected, stored, managed and accessed - especially if you may be subject to privacy regulatory requirements. You may want to consult your privacy team to make sure you're collecting information in a compliant way.
 
@@ -205,7 +197,11 @@ While it may seem like a good way to collect information for purposes of marketi
 
 The facilitation of registration will likely be informed by prior decisions (whether or not to use a website, what platform will be used to host the event, etc.). However its done, make sure you have the ability to access the registration information so that you can communicate with the participants, form team (if required), and do anything else that requires the information submitted by the participants.  
 
-#### 13. Advertise the Event
+> If using Teams, the best way for people to register is using a MS account. As people need to be added as guests to a MS tenant you want to minimize much friction as possible from the get-go. We wouldn't want them to send unnecessary emails to ask them to register for an MS account and having to ask them to send us their MS account email.
+
+> We had ran our fair share of hackathons and found using a MS social login is the best way to register participants if MS Teams is the way you want to collaborate. That way, there is no confusion for the registrant. 
+
+#### 12. Advertise the Event
 
 Now that most decisions have been made and prospective participants should have enough information to decide if they want to register, it's time to advertise the event. 
 Using the social media platform(s), and any other avenues you should send out, or send a link to, the event summary which has a link to registration. 
@@ -214,21 +210,21 @@ Organizers will need to determine how long before the event to open registration
 
 There is a good middle ground, the decision will need to be made based on the your event specifically but _**we recommend opening registration about 3 weeks in advance**_.
 
-#### 15. Create Teams
+#### 13. Create Teams
 
 After participants have registered, or started registering, team formation can begin. If hackers are not forming their own teams, this is when the organizers will start putting teams together based on attributes discussed in step 7 [Determine if Teams will be Assigned or Self-Organizing](#7-determine-if-teams-will-be-assigned-or-self-organizing).
 
-#### 16. Set-up Help Desk
+#### 14. Set-up Help Desk
 
 Whether [in-person or virtual](./ThingsToKeepInMind.md) it's vital to have experts on stand by ready to answer technical / logistical questions. 
 
-#### 17. Send Team Meeting Invites if not using Breakout Rooms
+#### 15. Send Team Meeting Invites if not using Breakout Rooms
 
 After teams are formed, depending on the collaboration platform, a decision will need to be made as to how the teams will meet. For example, in Microsoft Teams each Team can have their own Team, Channel, Meeting, or Breakout Room.
 
 Keep in mind that if the organizers are assigning teams, that there will always be hackers that don't show up or cancel and teams will have to be adjusted last-minute.
 
-#### 18. Build Kickoff Deck
+#### 16. Build Kickoff Deck
 
 At this point, whomever will be kicking off the event will want to start building the presentation to do so. Suggested information to include could be, but is not limited to the following.
 
@@ -242,11 +238,11 @@ At this point, whomever will be kicking off the event will want to start buildin
 > - Reminder of the training material on how to use the platforms/tools
 > - Next Steps & Timeline
 
-#### 19. Build Post-Hack Survey
+#### 17. Build Post-Hack Survey
 
 Capturing information from the participants about usefulness of the event, things that went well, things that could be improved, and any other information will be important for the event retrospective and may be useful to determine the impact of the event aside from simply the number of participants. 
 
-#### 20. Build Closing Remarks Deck
+#### 18. Build Closing Remarks Deck
 
 You will also likely want to build a presentation for the closing remarks. Suggested information to include could be, but is not limited to the following.
 
