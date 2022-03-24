@@ -1,10 +1,10 @@
-# Community Hackathon
+# External Hackathon
 
-This page is designed to provide guidance, and ideas on running a Community Hackathon.  
+This page is designed to provide guidance, and ideas on running a External Hackathon.  
 
 [In-person or virtual or hybrid?](./ThingsToKeepInMind.md)
 
-## Steps to run a Community Hackathon
+## Steps to run a External Hackathon
 
 #### 1. Determine Name, Purpose and Outcomes of the Hackathon
 
