@@ -112,6 +112,6 @@ If your HACKATHON TEAM produces artifacts like code and documentation, GitHub is
 
 Having covered the basics of a hackathon above, noting the differences between internal and community hackathons, you can now choose your hackathon type below to be directed to the guidance specific to that event type.
 
-[Steps to run a Community Hackathon](/community-hack/README.md)
+[Steps to run a External Hackathon](/community-hack/README.md)
 
 [Steps to run an Internal Hackathon](/internal-hack/README.md)
